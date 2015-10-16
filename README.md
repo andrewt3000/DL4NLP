@@ -12,4 +12,7 @@ Research Paper by Yoav Goldberg (October 2015)
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
 Word2Vec paper Mikolov (2013)
 
-[Word2Vec source code](https://code.google.com/p/word2vec/)
+[Word2Vec source code](https://code.google.com/p/word2vec/)  
+
+[Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+Blog post by Chris Olah
