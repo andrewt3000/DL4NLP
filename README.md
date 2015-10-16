@@ -15,5 +15,7 @@ Word2Vec paper Mikolov (2013)
 
 [Word2Vec source code](https://code.google.com/p/word2vec/)  
 
+[Glove](http://nlp.stanford.edu/projects/glove/)
+
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
-Blog post by Chris Olah
+Blog post by Chris Olah (2014)
