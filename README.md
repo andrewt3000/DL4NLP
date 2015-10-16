@@ -11,3 +11,5 @@ Research Paper by Yoav Goldberg (October 2015)
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
 Word2Vec paper Mikolov (2013)
+
+[Word2Vec source code](https://code.google.com/p/word2vec/)
