@@ -5,6 +5,9 @@
 
 [Cousera: Neural Networks - Geoffrey Hinton](https://class.coursera.org/neuralnets-2012-001/lecture)  
 
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
+Blog post by Chris Olah.  
+
 ## Word Vectors
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
