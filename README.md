@@ -23,7 +23,7 @@ Word2Vec paper Mikolov (2013)
 Source code that goes with paper
 
 [Glove](http://nlp.stanford.edu/projects/glove/)  
-Pennington, Socher, Manning
+Pennington, Socher, Manning.
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Blog post by Chris Olah (2014)
@@ -37,5 +37,8 @@ Class taught by Richar Socher. (2015)
 Research Paper by Yoav Goldberg (October 2015)  
 
 ##Dialog
+[A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
+Sordoni 2015.  Generates responses to tweets.
+
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
-Vinyals, Le 2015
+Vinyals, Le 2015.  Uses LSTM to generate conversational responses.
