@@ -11,7 +11,7 @@ E = experience
 
 ### 2 Types of supervised learning
 1. regression = predicting a continuous value attribute (house prices)
-2. classification problem = predicting a discrete value.  Example benign/malignant tumor, fraudulent or legitimate financial transaction, spam or non-spam email.
+2. classification = predicting a discrete value.  Example benign/malignant tumor, fraudulent or legitimate financial transaction, spam or non-spam email.
 
 
 
