@@ -35,5 +35,5 @@ Class taught by Richar Socher. (2015)
 Research Paper by Yoav Goldberg (October 2015)  
 
 ##Dialog
-[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)
+[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
 Vinyals, Le 2015
