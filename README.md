@@ -28,7 +28,7 @@ Blog post by Chris Olah (2014)
 
 ## Deep Learning for NLP
 
-[Stanford CS 224D: Deep Learning for NLP class](cs224d.stanford.edu/syllabus.html)  
+[Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 Class taught by Richar Socher. (2015)  
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
