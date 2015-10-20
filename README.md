@@ -1,6 +1,6 @@
 # Deep Learning for NLP resources
 
-Introductory and state of the art resources for NLP, sequence modeling tasks like translation and dialog.
+Introductory and state of the art resources for NLP sequence modeling tasks like translation and dialog.
 
 ##Machine Learning: Neural Networks, RNN, LSTM
 [Coursera: Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
