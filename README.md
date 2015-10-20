@@ -7,6 +7,8 @@ State of the art resources for NLP, sequence modeling tasks like translation and
 
 [Cousera: Neural Networks - Geoffrey Hinton](https://class.coursera.org/neuralnets-2012-001/lecture)  
 
+[Deep Learning - book by Bengio](http://goodfeli.github.io/dlbook/)
+
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 Blog post by Chris Olah.  
 
@@ -32,3 +34,6 @@ Class taught by Richar Socher. (2015)
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Research Paper by Yoav Goldberg (October 2015)  
 
+##Dialog
+[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)
+Vinyals, Le 2015
