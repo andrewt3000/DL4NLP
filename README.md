@@ -9,6 +9,8 @@ State of the art resources for NLP, sequence modeling tasks like translation and
 
 [Deep Learning - book by Bengio](http://goodfeli.github.io/dlbook/)
 
+[A few useful things to know about machine learning - pedro domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  
+
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 Blog post by Chris Olah.  
 
