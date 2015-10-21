@@ -4,6 +4,7 @@ Introductory and state of the art resources for NLP sequence modeling tasks like
 
 ##Machine Learning: Neural Networks, RNN, LSTM
 [Coursera: Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
+Introductory course for neural networks and more.
 
 [Cousera: Neural Networks - Geoffrey Hinton](https://class.coursera.org/neuralnets-2012-001/lecture)  
 
