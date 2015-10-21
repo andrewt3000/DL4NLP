@@ -20,7 +20,7 @@ Resources about word vectors, aka word embeddings, and distributed representatio
 
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Mikolov (2013)  Includes [Word2Vec source code](https://code.google.com/p/word2vec/)  
+Mikolov et al (2013)  Includes [Word2Vec source code](https://code.google.com/p/word2vec/)  
 
 
 [Glove](http://nlp.stanford.edu/projects/glove/)  
