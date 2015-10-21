@@ -33,8 +33,11 @@ Blog post by Chris Olah (2014)
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 Class taught by Richar Socher. (2015)  
 
+[Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
+Le, Mikolov. 2014.  aka paragraph2vec  
+
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
-Research Paper by Yoav Goldberg (October 2015)  
+Yoav Goldberg (October 2015).  New new info, summary of state of the art.  
 
 ##Dialog
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
