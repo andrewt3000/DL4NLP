@@ -38,7 +38,7 @@ Blog post by Chris Olah (2014)
 Class taught by Richar Socher. (2015)  
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
-Yoav Goldberg (October 2015).  New new info, summary of state of the art.  
+Yoav Goldberg (October 2015).  No new info, summary of state of the art.  
 
 ##Dialog
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
@@ -46,3 +46,6 @@ Sordoni 2015.  Generates responses to tweets.
 
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
 Vinyals, Le 2015.  Uses LSTM to generate conversational responses.
+
+[Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)
+Weston 2015. 
