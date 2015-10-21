@@ -37,6 +37,9 @@ Blog post by Chris Olah (2014)
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 Richar Socher. (2015)  Class with videos, and slides.
 
+[Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
+Socher et al. 2013.  State of the art paper on deep learning for sentiment analysis.
+
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg (October 2015).  No new info, summary of state of the art.  
 
