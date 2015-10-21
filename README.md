@@ -21,7 +21,7 @@ Word vectors are often used as input to deep learning systems. This process is s
 
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Mikolov et al (2013)  Includes [Word2Vec source code](https://code.google.com/p/word2vec/)  
+Mikolov et al (2013)  Performs well on analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)
 
 
 [Glove](http://nlp.stanford.edu/projects/glove/)  
