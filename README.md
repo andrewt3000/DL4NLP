@@ -16,6 +16,8 @@ Introductory course for neural networks and more.
 Blog post by Chris Olah.  
 
 ## Word Vectors
+Resources about word vectors, aka word embeddings, and distributed representations for words.  
+
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
 Mikolov (2013)  Includes [Word2Vec source code](https://code.google.com/p/word2vec/)  
