@@ -18,10 +18,8 @@ Blog post by Chris Olah.
 ## Word Vectors
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Word2Vec paper Mikolov (2013)
+Mikolov (2013)  Includes [Word2Vec source code](https://code.google.com/p/word2vec/)  
 
-[Word2Vec source code](https://code.google.com/p/word2vec/)  
-Source code that goes with paper
 
 [Glove](http://nlp.stanford.edu/projects/glove/)  
 Pennington, Socher, Manning.
@@ -35,7 +33,7 @@ Blog post by Chris Olah (2014)
 ## Deep Learning for NLP
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
-Class taught by Richar Socher. (2015)  
+Richar Socher. (2015)  Class with videos, and slides.
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg (October 2015).  No new info, summary of state of the art.  
@@ -47,5 +45,5 @@ Sordoni 2015.  Generates responses to tweets.
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
 Vinyals, Le 2015.  Uses LSTM to generate conversational responses.
 
-[Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)
-Weston 2015. 
+[Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)  
+Weston 2015. Classifies QA tasks. Expands on Memory Networks.
