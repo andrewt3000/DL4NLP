@@ -26,6 +26,9 @@ Source code that goes with paper
 [Glove](http://nlp.stanford.edu/projects/glove/)  
 Pennington, Socher, Manning.
 
+[Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
+Le, Mikolov. 2014.  aka paragraph2vec  
+
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Blog post by Chris Olah (2014)
 
@@ -33,9 +36,6 @@ Blog post by Chris Olah (2014)
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 Class taught by Richar Socher. (2015)  
-
-[Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
-Le, Mikolov. 2014.  aka paragraph2vec  
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg (October 2015).  New new info, summary of state of the art.  
