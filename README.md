@@ -39,7 +39,7 @@ Chris Olah (2014)  Blog post explaining word2vec.
 Richard Socher. (2015)  Class with videos, and slides.
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
-Socher et al. 2013.  State of the art paper on deep learning for sentiment analysis using recurrent neural networks.
+Socher et al. 2013.  State of the art paper on deep learning for sentiment analysis using recursive neural networks.
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg (October 2015).  No new info, summary of state of the art.  
@@ -49,7 +49,7 @@ Yoav Goldberg (October 2015).  No new info, summary of state of the art.
 Sordoni 2015.  Generates responses to tweets.
 
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
-Vinyals, Le 2015.  Uses LSTM to generate conversational responses.
+Vinyals, Le 2015.  Uses recurrent neural networks and LSTM to generate conversational responses. Uses seq2seq framework.
 
 [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)  
 Weston 2015. Classifies QA tasks. Expands on Memory Networks.
