@@ -5,16 +5,10 @@ P - probability of improved performance
 E - experience  
 
 ### 2 Types of machine learning
-1. Supervised learning - you give the algorithm a dataset of “right” answers.  Example predict house prices in portland.
-2. Unsupervised learning - no “right” answers.  algorithm finds structure. Clustering is an example of unsupervised learning. Examples: social network analysis, market segmentation, astronomical data analysis.  
-  
-*Reinforcement learning is a 3rd type of learning, not mentioned in this course.
+1. Supervised learning - learns uses labeled training data.  Example predict house prices in portland.
+2. Unsupervised learning - learns using unlabled training data.  algorithm finds structure. Clustering is an example of unsupervised learning. Examples: social network analysis, market segmentation, astronomical data analysis.  
+3. Reinforcement learning - learns to take action by getting rewards.
 
 ### 2 Types of supervised learning
 1. regression - predicting a continuous value attribute (house prices)
-2. classification - predicting a discrete value.  Example: benign/malignant tumor, fraudulent or legitimate financial transaction, spam or non-spam email.
-
-
-
-Many machine learning projects are prototyped in octave and matlab and production code is written in c++ or java.
-
+2. classification - predicting a discrete value. Example: benign/malignant tumor, fraudulent or legitimate financial transaction, spam or non-spam email.
