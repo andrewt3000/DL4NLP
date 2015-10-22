@@ -4,7 +4,7 @@ Introductory and state of the art resources for NLP sequence modeling tasks like
 
 ##Machine Learning: Neural Networks, RNN, LSTM
 [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
-Andrew Ng
+Andrew Ng  
 Introductory course for linear regression, logistic regression, and neural networks.  
 Also covers support vector machines, k-means, etc.  
 
@@ -12,8 +12,8 @@ Also covers support vector machines, k-means, etc.
 Geoffrey Hinton  
 Covers a variety of topics: Neural nets, RNNs, LSTMs.  
 
-[Deep Learning (Book)](http://goodfeli.github.io/dlbook/)
-Yoshua Bengio
+[Deep Learning (Book)](http://goodfeli.github.io/dlbook/)  
+Yoshua Bengio  
 Advanced book about deep learning.
 
 [A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  
