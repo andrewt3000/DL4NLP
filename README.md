@@ -24,7 +24,7 @@ Blog post by Chris Olah.
 
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
-Word vectors are often used as input to deep learning systems. This process is sometimes called pretraining.  
+Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
 
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
