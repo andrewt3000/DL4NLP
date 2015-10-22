@@ -30,7 +30,7 @@ Word vectors are numeric representations of words that are often used as input t
 Mikolov et al. 2013.  
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Mikolov et al (2013)  
+Mikolov et al. 2013. 
 Generate word and phrase vectors.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)  Subsamples frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
@@ -51,7 +51,7 @@ Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Rec
 Richard Socher. (2015)  Class with videos, and slides.
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
-Yoav Goldberg (October 2015).  No new info, summary of state of the art.  
+Yoav Goldberg. October 2015. No new info, summary of state of the art.  
 
 ##Dialog
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
