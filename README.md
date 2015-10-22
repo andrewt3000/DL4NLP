@@ -13,7 +13,7 @@ Also covers support vector machines, k-means, etc.
 Covers a variety of topics: Neural nets, RNNs, LSTMs.  
 
 [Deep Learning (Book)](http://goodfeli.github.io/dlbook/)  
-Yoshua Bengio  
+[Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)  
 Advanced book about deep learning.
 
 [A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  
@@ -48,7 +48,7 @@ Le, Mikolov. 2014.  Concatenates and averages pretrained, fixed word vectors to 
 Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Recursive Neural Tensor Network.  It is able to capture negation.
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
-Richard Socher. (2015)  Class with videos, and slides.
+[Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2015)  Class with videos, and slides.
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg. October 2015. No new info, summary of state of the art.  
