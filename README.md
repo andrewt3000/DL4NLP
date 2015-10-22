@@ -9,7 +9,7 @@ Introductory course for linear regression, logistic regression, and neural netwo
 Also covers support vector machines, k-means, etc.  
 
 [Cousera: Neural Networks](https://class.coursera.org/neuralnets-2012-001/lecture)  
-Geoffrey Hinton  
+[Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ)  
 Covers a variety of topics: Neural nets, RNNs, LSTMs.  
 
 [Deep Learning (Book)](http://goodfeli.github.io/dlbook/)  
@@ -27,7 +27,7 @@ Resources about word vectors, aka word embeddings, and distributed representatio
 Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
 
 [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)  
-Mikolov et al. 2013.  
+[Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. 2013.  
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
 Mikolov et al. 2013. 
