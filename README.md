@@ -26,9 +26,12 @@ Blog post by Chris Olah.
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
 Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
 
+[Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)  
+Mikolov et al. 2013.  
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Mikolov et al (2013)  Generate word and phrase vectors.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)  Subsamples frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)
+Mikolov et al (2013)  
+Generate word and phrase vectors.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)  Subsamples frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Chris Olah (2014)  Blog post explaining word2vec.  
