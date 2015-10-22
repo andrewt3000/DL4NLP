@@ -50,7 +50,7 @@ Le, Mikolov. 2014.  Concatenates and averages pretrained, fixed word vectors to 
 
 
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
-Tai et al. 2015  Uses LSTM
+Tai et al. 2015  Introduces tree LSTM.
 
 ## Deep Learning for NLP
 
