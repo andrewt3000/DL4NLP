@@ -40,7 +40,7 @@ Chris Olah (2014)  Blog post explaining word2vec.
 Pennington, Socher, Manning. Similar to word2vec.  
 
 ## Thought Vectors
-Thought vectors are numeric representations of word and phrase vectors for sentences, paragraphs, and documents.
+Thought vectors are numeric representations for sentences, paragraphs, and documents.
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
 Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Recursive Neural Tensor Network.  It is able to capture negation.
