@@ -7,6 +7,7 @@ E - experience
 ### 2 Types of machine learning
 1. Supervised learning - you give the algorithm a dataset of “right” answers.  Example predict house prices in portland.
 2. Unsupervised learning - no “right” answers.  algorithm finds structure. Clustering is an example of unsupervised learning. Examples: social network analysis, market segmentation, astronomical data analysis.  
+  
 *Reinforcement learning is a 3rd type of learning, not mentioned in this course.
 
 ### 2 Types of supervised learning
