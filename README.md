@@ -28,25 +28,24 @@ Word vectors are numeric representations of words that are often used as input t
 
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Mikolov et al (2013)  Performs well on analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)
-
-
-[Glove](http://nlp.stanford.edu/projects/glove/)  
-Pennington, Socher, Manning. Similar to word2vec.  
-
-[Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
-Le, Mikolov. 2014.  Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
+Mikolov et al (2013)  Uses unsupervised learning to generate word and phrase vectors from corpuses like wikipedia and google news.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Chris Olah (2014)  Blog post explaining word2vec.  
 
+[Glove](http://nlp.stanford.edu/projects/glove/)  
+Pennington, Socher, Manning. Similar to word2vec.  
+
 ## Deep Learning for NLP
 
-[Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
-Richard Socher. (2015)  Class with videos, and slides.
+[Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
+Le, Mikolov. 2014.  Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
 Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Recursive Neural Tensor Network.  It is able to capture negation.
+
+[Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
+Richard Socher. (2015)  Class with videos, and slides.
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg (October 2015).  No new info, summary of state of the art.  
