@@ -28,7 +28,7 @@ Mikolov et al (2013)  Performs well on analogy task and includes [Word2Vec sourc
 Pennington, Socher, Manning.
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
-Le, Mikolov. 2014.  aka paragraph2vec  
+Le, Mikolov. 2014.  Concatenates and averages pretrained word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Blog post by Chris Olah (2014)
