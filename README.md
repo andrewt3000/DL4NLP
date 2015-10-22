@@ -27,10 +27,9 @@ Resources about word vectors, aka word embeddings, and distributed representatio
 Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
 
 [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)  
-[Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. 2013.  
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Mikolov et al. 2013. 
+[Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. 2013.  
 Generate word and phrase vectors.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)  Subsamples frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
@@ -46,7 +45,7 @@ Thought vectors are numeric representations for sentences, paragraphs, and docum
 Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Recursive Neural Tensor Network.  It is able to capture negation.
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
-Le, Mikolov. 2014.  Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
+[Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
 
 
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
@@ -65,7 +64,7 @@ Yoav Goldberg. October 2015. No new info, summary of state of the art.
 Sordoni 2015.  Generates responses to tweets.
 
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
-Vinyals, Le 2015.  Uses recurrent neural networks and LSTM to generate conversational responses. Uses seq2seq framework.
+Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses recurrent neural networks and LSTM to generate conversational responses. Uses seq2seq framework.
 
 [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)  
 Weston 2015. Classifies QA tasks. Expands on Memory Networks.
