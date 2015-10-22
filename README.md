@@ -46,7 +46,7 @@ Chris Olah (2014)  Blog post explaining word2vec.
 Richard Socher. (2015)  Class with videos, and slides.
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
-Socher et al. 2013.  State of the art paper on deep learning for sentiment analysis using recursive neural networks.
+Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Recursive Neural Tensor Network.  It is able to capture negation.
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg (October 2015).  No new info, summary of state of the art.  
