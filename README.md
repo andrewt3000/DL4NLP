@@ -28,7 +28,7 @@ Word vectors are numeric representations of words that are often used as input t
 
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
-Mikolov et al (2013)  Uses unsupervised learning to generate word and phrase vectors from corpuses like wikipedia and google news.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)
+Mikolov et al (2013)  Generate word and phrase vectors.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)  Subsamples frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Chris Olah (2014)  Blog post explaining word2vec.  
