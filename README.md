@@ -3,14 +3,21 @@
 Introductory and state of the art resources for NLP sequence modeling tasks like dialog.
 
 ##Machine Learning: Neural Networks, RNN, LSTM
-[Coursera: Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
-Introductory course for neural networks and more.
+[Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
+Andrew Ng
+Introductory course for linear regression, logistic regression, and neural networks.  
+Also covers support vector machines, k-means, etc.  
 
-[Cousera: Neural Networks - Geoffrey Hinton](https://class.coursera.org/neuralnets-2012-001/lecture)  
+[Cousera: Neural Networks](https://class.coursera.org/neuralnets-2012-001/lecture)  
+Geoffrey Hinton  
+Covers a variety of topics: Neural nets, RNNs, LSTMs.  
 
-[Deep Learning - book by Bengio](http://goodfeli.github.io/dlbook/)
+[Deep Learning (Book)](http://goodfeli.github.io/dlbook/)
+Yoshua Bengio
+Advanced book about deep learning.
 
-[A few useful things to know about machine learning - pedro domingos](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  
+[A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  
+Pedro Domingos  
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 Blog post by Chris Olah.  
