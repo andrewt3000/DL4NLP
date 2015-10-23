@@ -65,8 +65,12 @@ Yoav Goldberg. October 2015. No new info, summary of state of the art.
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
 Sordoni 2015.  Generates responses to tweets.
 
-[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
-Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses recurrent neural networks and LSTM to generate conversational responses. Uses seq2seq framework.
-
 [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)  
-Weston 2015. Classifies QA tasks. Expands on Memory Networks.
+Weston 2015. Classifies QA tasks. Expands on Memory Networks.  
+
+[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
+Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses seq2seq framework.  
+
+## Advanced Memory
+[Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf)
+Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-RNN)
