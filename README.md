@@ -35,8 +35,8 @@ Generate word and phrase vectors.  Performs well on word similarity and analogy 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Chris Olah (2014)  Blog post explaining word2vec.  
 
-[Glove](http://nlp.stanford.edu/projects/glove/)  
-Pennington, Socher, Manning. Similar to word2vec.  
+[Glove](http://nlp.stanford.edu/projects/glove/) [GloVe: Global vectors for word representation](http://nlp.stanford.edu/projects/glove/glove.pdf) 
+Pennington, Socher, Manning. 2014. Creates word vectors.  Improves on word analogy task by 75% over word2vec.  
 
 ## Thought Vectors
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis.  Paragraph vectors are unique in that they don't use a parse tree.  
