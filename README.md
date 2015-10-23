@@ -45,7 +45,7 @@ Thought vectors are numeric representations for sentences, paragraphs, and docum
 Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Recursive Neural Tensor Network.  It is able to capture negation.
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
-[Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
+[Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Paragraph Vector concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
 
 
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
