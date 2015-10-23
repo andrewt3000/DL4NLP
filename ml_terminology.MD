@@ -10,5 +10,5 @@ E - experience
 3. Reinforcement learning - learns to take action by getting rewards.
 
 ### 2 Types of supervised learning
-1. regression - predicting a continuous value attribute (house prices)
+1. regression - predicting a continuous value attribute (Example: house prices)
 2. classification - predicting a discrete value. Example: benign/malignant tumor, fraudulent or legitimate financial transaction, spam or non-spam email.
