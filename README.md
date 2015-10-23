@@ -72,5 +72,5 @@ Weston 2015. Classifies QA tasks. Expands on Memory Networks.
 Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses seq2seq framework.  
 
 ## Advanced Memory
-[Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf)
-Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-RNN)
+[Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf)  
+Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-RNN)  
