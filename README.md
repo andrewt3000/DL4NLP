@@ -69,7 +69,7 @@ Sordoni 2015.  Generates responses to tweets.
 Weston 2015. Classifies QA tasks. Expands on Memory Networks.  
 
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
-Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses seq2seq framework.  
+Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://arxiv.org/pdf/1409.3215v3.pdf).  
 
 ## Advanced Memory Architectures
 [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)  
