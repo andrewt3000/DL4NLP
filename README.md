@@ -39,17 +39,19 @@ Chris Olah (2014)  Blog post explaining word2vec.
 Pennington, Socher, Manning. Similar to word2vec.  
 
 ## Thought Vectors
-Thought vectors are numeric representations for sentences, paragraphs, and documents.
+Thought vectors are numeric representations for sentences, paragraphs, and documents.  Often used for sentiment analysis.
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
-Socher et al. 2013.  Deep learning for sentiment analysis on sentences using Recursive Neural Tensor Network.  It is able to capture negation.
+Socher et al. 2013.  Introduces Recursive Neural Tensor Network.
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
-[Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Paragraph Vector concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Used for sentiment analysis.  Known as paragraph2vec.
+[Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Introduces Paragraph Vector. Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Also known as paragraph2vec.
 
+[Deep Recursive Neural Networks for Compositionality in Language](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
+Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks.  
 
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
-Tai et al. 2015  Introduces tree LSTM.
+Tai et al. 2015  Introduces Tree LSTM.
 
 ## Deep Learning for NLP
 
