@@ -2,7 +2,7 @@
 
 Introductory and state of the art resources for NLP sequence modeling tasks like dialog.
 
-##Machine Learning: Neural Networks, RNN, LSTM
+##Machine Learning Introductory Resources: Neural Networks, RNN, LSTM
 [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
 Andrew Ng  
 Introductory course for linear regression, logistic regression, and neural networks.  
@@ -21,6 +21,14 @@ Pedro Domingos
 
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 Blog post by Chris Olah.  
+
+## Deep Learning for NLP Introductory Resources
+
+[Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
+[Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2015)  Class with videos, and slides.
+
+[A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
+Yoav Goldberg. October 2015. No new info, summary of state of the art.  
 
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
@@ -52,14 +60,6 @@ Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
 
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
 Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
-
-## Deep Learning for NLP
-
-[Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
-[Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2015)  Class with videos, and slides.
-
-[A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
-Yoav Goldberg. October 2015. No new info, summary of state of the art.  
 
 ##Dialog
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
