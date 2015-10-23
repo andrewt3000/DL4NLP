@@ -2,7 +2,7 @@
 
 Introductory and state of the art resources for NLP sequence modeling tasks like dialog.
 
-##Machine Learning Introductory Resources: Neural Networks, RNN, LSTM
+##Machine Learning: Neural Networks, RNN, LSTM
 [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
 Andrew Ng  
 Introductory course for linear regression, logistic regression, and neural networks.  
@@ -22,7 +22,7 @@ Pedro Domingos
 [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
 Blog post by Chris Olah.  
 
-## Deep Learning for NLP Introductory Resources
+## Deep Learning for NLP 
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2015)  Class with videos, and slides.
