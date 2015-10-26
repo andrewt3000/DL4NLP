@@ -44,7 +44,7 @@ Generate word and phrase vectors.  Performs well on word similarity and analogy 
 Chris Olah (2014)  Blog post explaining word2vec.  
 
 [GloVe: Global vectors for word representation](http://nlp.stanford.edu/projects/glove/glove.pdf)  
-Pennington, Socher, Manning. 2014. Creates word vectors. [Relates word2vec to PMI.  Evalutaion section called into question.](http://rare-technologies.com/making-sense-of-word2vec/).  
+Pennington, Socher, Manning. 2014. Creates word vectors. [Relates word2vec to PMI.  Evalutaion section called into question.](http://rare-technologies.com/making-sense-of-word2vec/)  
 [Glove source code and training data](http://nlp.stanford.edu/projects/glove/) 
 
 ## Thought Vectors
