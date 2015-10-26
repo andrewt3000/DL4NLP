@@ -30,6 +30,9 @@ Blog post by Chris Olah.
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg. October 2015. No new info, summary of state of the art.  
 
+[Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)     
+Ronan Collobert, Jason Weston, Léon Bottou, Michael Karlen, Koray Kavukcuoglu, Pavel Kuksa
+
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
 Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
