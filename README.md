@@ -55,7 +55,7 @@ Socher et al. 2013.  Introduces Recursive Neural Tensor Network.  Uses a parse t
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
 [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Introduces Paragraph Vector. Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Also known as paragraph2vec.  Doesn't use a parse tree.  
-Implemented in [gensim](https://github.com/piskvorky/gensim/) [doc2vec tutorial](http://rare-technologies.com/doc2vec-tutorial/)
+Implemented in [gensim](https://github.com/piskvorky/gensim/).  See [doc2vec tutorial](http://rare-technologies.com/doc2vec-tutorial/)
 
 [Deep Recursive Neural Networks for Compositionality in Language](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
 Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
