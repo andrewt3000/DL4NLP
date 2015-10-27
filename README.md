@@ -12,7 +12,7 @@ Also covers support vector machines, k-means, etc.
 [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ)  
 Covers a variety of topics: Neural nets, RNNs, LSTMs.
 
-[Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)
+[Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  
 Extensive intro to basic ML concepts for developers.  
 
 [Deep Learning (Book)](http://goodfeli.github.io/dlbook/)  
@@ -27,7 +27,7 @@ Blog post by Chris Olah.
 
 ## Deep Learning for NLP 
 [Stanford Natural Language Processing](https://class.coursera.org/nlp/lecture/preview)
-Intro NLP course with videos. 
+Intro NLP course with videos. This has no deep learning. But it is a good primer for traditional nlp.  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2015)  Class with videos, and slides.
