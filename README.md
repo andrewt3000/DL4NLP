@@ -13,7 +13,7 @@ Also covers support vector machines, k-means, etc.
 Covers a variety of topics: Neural nets, RNNs, LSTMs.
 
 [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  
-Extensive intro to basic ML concepts for developers.  
+Intro to basic ML concepts for developers.  
 
 [Deep Learning (Book)](http://goodfeli.github.io/dlbook/)  
 [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)  
@@ -34,9 +34,6 @@ Intro NLP course with videos. This has no deep learning. But it is a good primer
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.  
-
-[Natural Language Processing (Almost) from Scratch](http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf)     
-Collobert, et al. 2011 - Uses neural nets for POS tagging, chunking, NER.
 
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
