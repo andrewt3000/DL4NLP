@@ -78,7 +78,9 @@ of (Mikolov et al., 2010).](http://www.fit.vutbr.cz/research/groups/speech/publi
 Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  Achieves one round conversations with 75% appropriate responses.
 
 [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)  
-Weston 2015. Classifies QA tasks. Expands on Memory Networks.  
+Weston 2015. Classifies QA tasks. Builds on [Memory Networks](http://arxiv.org/pdf/1410.3916v10.pdf), and 
+[End-To-End Memory Networks](http://arxiv.org/pdf/1503.08895v4.pdf) which is implemented in [MemNN](https://github.com/facebook/MemNN)  
+
 
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
 Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://arxiv.org/pdf/1409.3215v3.pdf).  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)  
