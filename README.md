@@ -69,6 +69,10 @@ Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
 [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
 Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
 
+[Semi-supervised Sequence Learning](http://arxiv.org/pdf/1511.01432.pdf)  
+Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
+timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."  
+
 ##Dialog
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
 Sordoni 2015.  Generates responses to tweets.   
