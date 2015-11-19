@@ -44,7 +44,7 @@ Word vectors are numeric representations of words that are often used as input t
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
 [Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. 2013.  
 Generate word and phrase vectors.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)  Subsamples frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)  
-[Word2Vec tutorial](http://tensorflow.org/tutorials/word2vec/index.md) in [TensorFlow](http://tensorflow.org/)  
+[Word2Vec tutorial](http://tensorflow.org/tutorials/word2vec/index.html) in [TensorFlow](http://tensorflow.org/)  
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Chris Olah (2014)  Blog post explaining word2vec.  
@@ -54,7 +54,7 @@ Pennington, Socher, Manning. 2014. Creates word vectors and relates word2vec to 
 [Glove source code and training data](http://nlp.stanford.edu/projects/glove/) 
 
 ## Thought Vectors
-Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis.  Paragraph vectors are unique in that they don't use a parse tree.  
+Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis.  
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
 Socher et al. 2013.  Introduces Recursive Neural Tensor Network.  Uses a parse tree.
@@ -89,7 +89,7 @@ Weston 2015. Classifies QA tasks. Builds on [Memory Networks](http://arxiv.org/p
 
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
 Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://arxiv.org/pdf/1409.3215v3.pdf) (Sutskever, Vinyals, Le 2014).  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)  
-[seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.md) in [TensorFlow](http://tensorflow.org/)  
+[seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/)  
 
 ## Advanced Memory Architectures
 [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)  
