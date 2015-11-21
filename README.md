@@ -12,6 +12,9 @@ Also covers support vector machines, k-means, etc.
 [Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ)  
 Covers a variety of topics: Neural nets, RNNs, LSTMs.
 
+[Neural Networks (Playlist)](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+Covers : Neural nets, CRFs, RBMs, Autoencoder, DBNs, etc.
+
 [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  
 Intro to basic ML concepts for developers.  
 
