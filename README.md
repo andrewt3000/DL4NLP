@@ -95,5 +95,5 @@ Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Use
 [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)  
 Graves et al. 2014.  
 
-[Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf)  
+[Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf) [blog post](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)  
 Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-RNN)  
