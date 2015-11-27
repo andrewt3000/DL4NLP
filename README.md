@@ -73,7 +73,7 @@ Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
 Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."  
 
-##Single Sentence Dialog
+##Single Exchange Dialog
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
 Sordoni 2015.  Generates responses to tweets.   
 Uses [Recurrent Neural Network Language Model (RLM) architecture
@@ -86,7 +86,7 @@ Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  A
 Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://arxiv.org/pdf/1409.3215v3.pdf) (Sutskever, Vinyals, Le 2014).  Seq2Seq was originally designed for machine transation and it "translates" a single sentence to a single sentence response, and has no memory of previous dialog exchanges.  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)  
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
-##Memory Attention Architectures
+##Memory Driven Architectures
 [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)  
 Weston 2015. Classifies QA tasks. Builds on [Memory Networks](http://arxiv.org/pdf/1410.3916v10.pdf), and 
 [End-To-End Memory Networks](http://arxiv.org/pdf/1503.08895v4.pdf) which is implemented in [MemNN](https://github.com/facebook/MemNN). Attempts to solve task of [reason attention and memory](https://research.facebook.com/pages/764602597000662/reasoning-attention-memory-ram-nips-workshop-2015/).
