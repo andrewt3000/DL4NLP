@@ -89,7 +89,7 @@ Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Use
 ##Memory Driven Architectures
 [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](http://arxiv.org/pdf/1502.05698v7.pdf)  
 Weston 2015. Classifies QA tasks. Builds on [Memory Networks](http://arxiv.org/pdf/1410.3916v10.pdf), and 
-[End-To-End Memory Networks](http://arxiv.org/pdf/1503.08895v4.pdf) which is implemented in [MemNN](https://github.com/facebook/MemNN). Attempts to solve task of [reason attention and memory](https://research.facebook.com/pages/764602597000662/reasoning-attention-memory-ram-nips-workshop-2015/).
+[End-To-End Memory Networks](http://arxiv.org/pdf/1503.08895v4.pdf) which is implemented in [MemNN](https://github.com/facebook/MemNN). Attempts to solve task of [reason attention and memory](https://research.facebook.com/pages/764602597000662/reasoning-attention-memory-ram-nips-workshop-2015/). See [Jason Weston lecture on MemNN](https://www.youtube.com/watch?v=Xumy3Yjq4zk)
 
 [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)  
 Graves et al. 2014.  
