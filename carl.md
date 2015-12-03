@@ -1,4 +1,4 @@
-#Carl: Computer Assisted Reflective Listener
+#Counseling and Machine Learning
 Carl is a project to train an autonomous agent to do text based chat counseling. It is like Siri or IBM Watson for counseling.  The idea is to use live counselors to chat with clients for short term sessions and record dialog data.  Then use this "training data" and machine learning (a subfield of artificial intelligence) to train an increasingly autonomous agent capable of chatting with and counseling clients.  
 
 Carl is in the research phase and the biggest challenge is technical feasibility.  Is this possible?  Or will it be possible in the next few years?  This is passing the [Turing Test](https://en.wikipedia.org/wiki/Turing_test), where users can't distinguish a live person from a machine.  It was first [posed by Alan Turing in 1950](http://www.loebner.net/Prizef/TuringArticle.html) and it remains an elusive goal of computer science. I am going to outline two of the most challenging aspects and reasons for optimism. 
