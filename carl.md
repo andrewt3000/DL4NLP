@@ -16,9 +16,9 @@ The techniques include asking open ended questions.  Open ended questions are qu
 
 Reflective listening also includes articulating the underlying emotion expressed by the client. The counselor may say “You seem frustrated” or “You seemed encouraged by that news.”  It is fundamentally an emotional classification problem.  
 
-Reflective listening is not about giving advice.  If a client asks for direct advice like “What should I do?”  You might respond with an open ended question like “What do you think your options are?”
+Reflective listening is not about giving advice.  If a client asks for direct advice like “What should I do?”  Counselors might respond with an open ended question like “What do you think your options are?”
 
-Reflective listening is also non-directive, meaning you don’t lead the conversation.  You also don’t disclose any personal information.  So if a client asks “Do you have kids?”  You might respond with an open ended question like “What’s the reason you ask?” or try to summarize the underlying emotion  “You are concerned that someone who doesn't have kids won't be able to relate to you.”  
+Reflective listening is also non-directive, meaning they don’t lead the conversation.  Counselors also don’t disclose any personal information.  So if a client asks “Do you have kids?”  A counselor might respond with an open ended question like “What’s the reason you ask?” or try to summarize the underlying emotion  “You are concerned that someone who doesn't have kids won't be able to relate to you.”  
 
 These techniques, while simple in concept, can be difficult in practice. The techniques are often counter-intutive many people's desire is to give advice, be directive and try to fix things for the client. Also, the results can be amazing.  When I was younger I had a counselor and after a session of complaining about my preacher, she said "You are desperately seeking strong male guidance and leadership."  Looking back it seems like a simple insight but for me it marked a profound change.  
 
