@@ -14,7 +14,7 @@ The techniques include asking open ended questions.  Open ended questions are qu
 - “How did you feel about that?” 
 - "What was it like the first time you felt that way?"
 
-Reflective listening also includes articulating the underlying emotion expressed by the client.  So the counselor may say “You seem frustrated” or “You seemed encouraged by that news.”  It is fundamentally an emotional classification problem.  
+Reflective listening also includes articulating the underlying emotion expressed by the client. The counselor may say “You seem frustrated” or “You seemed encouraged by that news.”  It is fundamentally an emotional classification problem.  
 
 Reflective listening is not about giving advice.  If a client asks for direct advice like “What should I do?”  You might respond with an open ended question like “What do you think your options are?”
 
