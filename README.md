@@ -30,7 +30,7 @@ Blog post by Chris Olah.
 Intro NLP course with videos. This has no deep learning. But it is a good primer for traditional nlp.  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
-[Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2015)  Class with videos, and slides.
+[Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2016)  Class with videos, and slides.
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.  
