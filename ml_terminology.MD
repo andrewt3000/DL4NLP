@@ -41,3 +41,8 @@ Square the error because
 
 ###Cost Function Intuition
 simplify and make ϴ<sub>0</sub> = 0
+
+###Gradient Descent
+:=  (assignment operator, not equality)
+alpha = learning rate
+
