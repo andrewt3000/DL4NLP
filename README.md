@@ -31,7 +31,7 @@ Intro NLP course with videos. This has no deep learning. But it is a good primer
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2016)  Class with syllabus, and slides.  
-Videos: [2015 lectures] (https://www.youtube.com/channel/UCsGC3XXF1ThHwtDo18d7WVw/videos) 2016: lecture [1](https://www.youtube.com/watch?v=kZteabVD8sU&index=1&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi) [2](https://www.youtube.com/watch?v=xhHOL3TNyJs&feature=youtu.be) [3](https://www.youtube.com/watch?v=UOGMsFw9V_w&feature=youtu.be) [4](https://www.youtube.com/watch?v=bjDbNbSbwY4&feature=youtu.be) [5](https://www.youtube.com/watch?v=k50GPWfjG7I&feature=youtu.be) [6](https://www.youtube.com/watch?v=l0k-30FNua8&feature=youtu.be) [7] (https://www.youtube.com/watch?v=L8Y2_Cq2X5s&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi&index=8) [8](https://www.youtube.com/watch?v=nwcJuGuG-0s&index=7&list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi)
+Videos: [2015 lectures] (https://www.youtube.com/channel/UCsGC3XXF1ThHwtDo18d7WVw/videos) / [2016 lectures] (https://www.youtube.com/playlist?list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi)   
 
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.  
