@@ -55,7 +55,7 @@ Pennington, Socher, Manning. 2014. Creates word vectors and relates word2vec to 
 [Glove source code and training data](http://nlp.stanford.edu/projects/glove/) 
 
 ## Thought Vectors
-Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis.  
+Thought vectors are numeric representations for sentences, paragraphs, and documents.  This concept is used for many text classification tasks such as sentiment analysis.      
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
 Socher et al. 2013.  Introduces Recursive Neural Tensor Network.  Uses a parse tree.
@@ -64,15 +64,6 @@ Socher et al. 2013.  Introduces Recursive Neural Tensor Network.  Uses a parse t
 [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Introduces Paragraph Vector. Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Also known as paragraph2vec.  Doesn't use a parse tree.  
 Implemented in [gensim](https://github.com/piskvorky/gensim/).  See [doc2vec tutorial](http://rare-technologies.com/doc2vec-tutorial/)
 
-[Deep Recursive Neural Networks for Compositionality in Language](http://www.cs.cornell.edu/~oirsoy/files/nips14drsv.pdf)  
-Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
-
-[Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)  
-Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
-
-[Semi-supervised Sequence Learning](http://arxiv.org/pdf/1511.01432.pdf)  
-Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
-timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."  
 ##Machine Translation
 [Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf)  
 Bahdanau, Cho 2014.  "comparable to the existing state-of-the-art phrase-based system on the task of English-to-French translation."  Implements attention mechanism.  
