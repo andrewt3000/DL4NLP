@@ -8,10 +8,6 @@ Andrew Ng
 Introductory course for linear regression, logistic regression, and neural networks.  
 Also covers support vector machines, k-means, etc.  
 
-[Cousera: Neural Networks](https://class.coursera.org/neuralnets-2012-001/lecture)  
-[Geoffrey Hinton](https://scholar.google.com/citations?user=JicYPdAAAAAJ)  
-Covers a variety of topics: Neural nets, RNNs, LSTMs.
-
 [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  
 Intro to basic ML concepts for developers.  
 
