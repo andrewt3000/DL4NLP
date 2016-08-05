@@ -34,13 +34,17 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
 
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
-Word vectors are numeric representations of words that are often used as input to deep learning systems. This process is sometimes called pretraining.  
+Word vectors are numeric representations of words where similar words have similar vectors. Word vectors are often used as input to deep learning systems. This process is sometimes called pretraining. 
 
 [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)  
+Mikolov et al 2013. Describes Continuous Bag-of-Words and Continuous Skip-gram models for learning word vectors.  
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
+Learns vectors for phrases such as "New York Times." Includes optimizations for skip-gram: heirachical softmax, and negative sampling. Subsampling frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)  
+[Linguistic Regularities in Continuous Space Word Representations](http://www.aclweb.org/anthology/N13-1090)  
 [Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. 2013.  
-Generate word and phrase vectors.  Performs well on word similarity and analogy task and includes [Word2Vec source code](https://code.google.com/p/word2vec/)  Subsamples frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)  
+Performs well on word similarity and analogy task.  Includes famous example: King – Man + Woman = Queen
+[Word2Vec source code](https://code.google.com/p/word2vec/)  
 [Word2Vec tutorial](http://tensorflow.org/tutorials/word2vec/index.html) in [TensorFlow](http://tensorflow.org/)  
 
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
