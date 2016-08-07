@@ -51,6 +51,9 @@ Mikolov et al. 2013. Learns vectors for phrases such as "New York Times." Includ
 [Word2Vec source code](https://code.google.com/p/word2vec/)  
 [Word2Vec tutorial](http://tensorflow.org/tutorials/word2vec/index.html) in [TensorFlow](http://tensorflow.org/)  
 
+[word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)  
+Rong 2014  
+
 [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
 Chris Olah (2014)  Blog post explaining word2vec.  
 
