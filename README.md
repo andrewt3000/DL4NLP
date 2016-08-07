@@ -40,9 +40,9 @@ Word vectors are numeric representations of words where similar words have simil
 Bengio 2003. Seminal paper on word vectors.  
 
 [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)  
-Mikolov et al. 2013. Word2Vec builds word vectors in an unsupervised way by attempting to predict word from corpus. Describes Continuous Bag-of-Words (CBOW) and Continuous Skip-gram models for learning word vectors.  
-Skip-gram takes center word and predict outside words.  
-CBOW - takes outside words and predict the center word.  
+Mikolov et al. 2013. Word2Vec generates word vectors in an unsupervised way by attempting to predict words from a corpus. Describes Continuous Bag-of-Words (CBOW) and Continuous Skip-gram models for learning word vectors.  
+Skip-gram takes center word and predict outside words. Skip-gram is better for large datasets.  
+CBOW - takes outside words and predict the center word. CBOW is better for smaller datasets.    
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
 Mikolov et al. 2013. Learns vectors for phrases such as "New York Times." Includes optimizations for skip-gram: heirachical softmax, and negative sampling. Subsampling frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)  
