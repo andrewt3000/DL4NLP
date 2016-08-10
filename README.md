@@ -22,7 +22,7 @@ Pedro Domingos
 Blog post by Chris Olah.  
 
 ## Deep Learning for NLP 
-[Stanford Natural Language Processing](https://class.coursera.org/nlp/lecture/preview)  
+[Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
 Intro NLP course with videos. This has no deep learning. But it is a good primer for traditional nlp.  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
