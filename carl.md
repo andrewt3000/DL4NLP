@@ -42,13 +42,6 @@ Seq2Seq will work well for basic exchanges and greetings like "Thank you" and "Y
 
 In reflective listening, you typically track the client's mood and emotion, so the requirements for memory are limited.  However, context is needed to generate appropriate responses, such as not asking questions the client has clearly answered, and not repeating counselor statements too often. These problems are not solved, and currently [very few researchers](https://www.uni-ulm.de/fileadmin/website_uni_ulm/allgemein/2015_iwsds/iwsds2015_submission_6.pdf) are working on them directly. However, researchers are working on them indirectly, seq2seq was designed for machine translation but is applicable to dialog systems. Also, QA systems with memory could help solve the problem of not asking an open ended question to which the answer is obvious.  
 
-There will be some new concepts required. I am researching a novel concept that I call attention labeling. Consider this conversation. 
-  
-**Client:**  I love my husband, but he expects me to clean the house and never says thank you.  
-**Counselor:** You feel unappreciated.  
-  
-The idea is to select "he expects me to clean the house and never says thank you" as the statement to which is being responded, and indicating the first part can be ignored. Obviously this will help train a system like seq2seq to not respond to "I love my husband" with "You feel unappreciated"  But the more interesting idea is to use this information to train an attention mechanism that preprocesses statements and reduce them to what warrants a response. This is a concept that I am actively researching and has challenges like ambiguity and scalability.  
-
 In spite of the challenges and uncertainty, the resources being concentrated on these research problems and the open source nature of the machine learning community are grounds for optimism. There have been several AI hype cycles in the past, and it is possible we will see a decline in AI interest and funding. However the gains are now to a point where we are unlikely to enter a severe [AI winter](https://en.wikipedia.org/wiki/AI_winter) where no serious research and development persist.   
 
 In the short term, it is very likely that Carl could make suggested replies, like the previously mentioned smart reply feature, and could improve over time as more data is collected and more advanced machine learning algorithms are developed. Choosing between suggested responses,  also has the potential to help train counselors, and enable them to be more consistent and efficient.  
