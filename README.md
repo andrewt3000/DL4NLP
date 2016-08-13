@@ -110,6 +110,9 @@ Gu et al. 2016 Proposes CopyNet.
 [A Persona-Based Neural Conversation Model](http://arxiv.org/pdf/1603.06155v2.pdf)  
 Li et al. 2016  Proposes persona-based models for handling the issue of speaker consistency in neural response generation.
 
+[Deep learning for chatbots](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)  
+Summary of state of the art, and challenges for chatbots.   
+
 ##Memory and Attention Models
 Attention mechanisms allows the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  - [Attention and Memory in Deep Learning and NLP](http://www.opendatascience.com/blog/attention-and-memory-in-deep-learning-and-nlp/)  
 
