@@ -64,8 +64,9 @@ Pennington, Socher, Manning. 2014. Creates word vectors and relates word2vec to 
 ## Thought Vectors
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  This concept is used for many text classification tasks such as sentiment analysis.      
 
-[Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)  
-Socher et al. 2013.  Introduces Recursive Neural Tensor Network.  Uses a parse tree.
+[Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)  
+Socher et al. 2013.  Introduces Recursive Neural Tensor Network and dataset: "sentiment treebank."  Includes [demo site](http://nlp.stanford.edu/sentiment/
+). Uses a parse tree.
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)  
 [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Introduces Paragraph Vector. Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Also known as paragraph2vec.  Doesn't use a parse tree.  
@@ -91,7 +92,7 @@ Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
 
-##Single Exchange Dialog
+##Convesation modeling / Dialog
 [A Neural Network Approach toContext-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)  
 Sordoni 2015.  Generates responses to tweets.   
 Uses [Recurrent Neural Network Language Model (RLM) architecture
@@ -102,6 +103,12 @@ Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  A
 
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
 Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://tensorflow.org/tutorials/seq2seq/index.html).  Seq2Seq was originally designed for machine transation and it "translates" a single sentence, up to around 79 words, to a single sentence response, and has no memory of previous dialog exchanges.  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)  
+
+[Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/pdf/1603.06393v3.pdf)  
+Gu et al. 2016 Proposes CopyNet.  
+
+[A Persona-Based Neural Conversation Model](http://arxiv.org/pdf/1603.06155v2.pdf)  
+Li et al. 2016  Proposes persona-based models for handling the issue of speaker consistency in neural response generation.
 
 ##Memory and Attention Models
 Attention mechanisms allows the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  - [Attention and Memory in Deep Learning and NLP](http://www.opendatascience.com/blog/attention-and-memory-in-deep-learning-and-nlp/)  
