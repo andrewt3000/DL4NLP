@@ -51,7 +51,7 @@ Many people find this idea abhorrent, they don't believe it will work because wh
 
 Another concern is privacy. That is a complicated issue, but there are a few ideas for consideration.  Carl Rogers was one of the first people to record counseling sessions for the purpose of research.  Another idea is to invert the current counseling model where you have confidentiality but not anonymity.  It might be easier to ensure anonymity rather than confidentiality.      
   
-There are a lot of obstacles.  This is a moonshot.... swinging for the fences... likely to fail. But I think the potential benefits are mind boggling.  What if everyone in the world, speaking any language, at any time, had a place where they could be understood and accepted without judgment and was more capable of living up to their potential?
+The potential benefits are mind boggling.  What if everyone in the world, speaking any language, at any time, had a place where they could be understood and accepted without judgment and was more capable of living up to their potential?
 
 ####Please share this link and contact me at [@andrewt3000](https://twitter.com/andrewt3000)
   
