@@ -101,20 +101,23 @@ Sordoni et al. 2015.  Generates responses to tweets.
 Uses [Recurrent Neural Network Language Model (RLM) architecture
 of (Mikolov et al., 2010).](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)  source code: [RNNLM Toolkit](http://www.rnnlm.org/)
 
-[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
-Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://tensorflow.org/tutorials/seq2seq/index.html).  Seq2Seq was originally designed for machine transation and it "translates" a single sentence, up to around 79 words, to a single sentence response, and has no memory of previous dialog exchanges.  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)  
-
 [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](http://arxiv.org/pdf/1507.04808v3.pdf)  
 Serban, Sordoni, Bengio et al. 2015. Extends hierarchical recurrent encoder-decoder neural network.
+
+[A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
+Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://tensorflow.org/tutorials/seq2seq/index.html).  Seq2Seq was originally designed for machine transation and it "translates" a single sentence, up to around 79 words, to a single sentence response, and has no memory of previous dialog exchanges.  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)  
 
 [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/pdf/1603.06393v3.pdf)  
 Gu et al. 2016 Proposes CopyNet, builds on seq2seq.  
 
 [A Persona-Based Neural Conversation Model](http://arxiv.org/pdf/1603.06155v2.pdf)  
-Li et al. 2016  Proposes persona-based models for handling the issue of speaker consistency in neural response generation.
+Li et al. 2016  Proposes persona-based models for handling the issue of speaker consistency in neural response generation. Builds on seq2seq.  
+
+[Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541v3.pdf)
+Li et al. 2016. Uses reinforcement learing to generate diverse responses. Trains 2 agents to chat with each other.   
 
 [Deep learning for chatbots](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)  
-Summary of state of the art, and challenges for chatbots.   
+Article summary of state of the art, and challenges for chatbots.   
 
 ##Memory and Attention Models
 Attention mechanisms allows the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  - [Attention and Memory in Deep Learning and NLP](http://www.opendatascience.com/blog/attention-and-memory-in-deep-learning-and-nlp/)  
