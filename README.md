@@ -23,7 +23,7 @@ Blog post by Chris Olah.
 
 ## Deep Learning for NLP 
 [Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
-Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp.  
+Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp. Covers topics such as sentence segmentation, word tokenizing, word normalization, n-grams, named entity recognition, part of speech tagging.  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2016)  Class with syllabus, and slides.  
@@ -57,7 +57,7 @@ Mikolov et al. 2013. Learns vectors for phrases such as "New York Times." Includ
 [word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)  
 Rong 2014  
 
-Articles explaining word2vec [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) and 
+Articles explaining word2vec: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) and 
 [The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
 
 ___
