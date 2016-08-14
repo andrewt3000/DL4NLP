@@ -108,7 +108,7 @@ Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Use
 Serban, Sordoni, Bengio et al. 2015. Extends hierarchical recurrent encoder-decoder neural network.
 
 [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/pdf/1603.06393v3.pdf)  
-Gu et al. 2016 Proposes CopyNet.  
+Gu et al. 2016 Proposes CopyNet, builds on seq2seq.  
 
 [A Persona-Based Neural Conversation Model](http://arxiv.org/pdf/1603.06155v2.pdf)  
 Li et al. 2016  Proposes persona-based models for handling the issue of speaker consistency in neural response generation.
