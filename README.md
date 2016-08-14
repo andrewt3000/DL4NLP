@@ -23,7 +23,7 @@ Blog post by Chris Olah.
 
 ## Deep Learning for NLP 
 [Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
-Intro NLP course with videos. This has no deep learning. But it is a good primer for traditional nlp.  
+Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp.  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2016)  Class with syllabus, and slides.  
@@ -39,13 +39,16 @@ Word vectors are numeric representations of words where similar words have simil
 [A neural probabilistic language model.](http://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf)  
 Bengio 2003. Seminal paper on word vectors.  
 
+___
 [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf)  
 Mikolov et al. 2013. Word2Vec generates word vectors in an unsupervised way by attempting to predict words from a corpus. Describes Continuous Bag-of-Words (CBOW) and Continuous Skip-gram models for learning word vectors.  
 Skip-gram takes center word and predict outside words. Skip-gram is better for large datasets.  
-CBOW - takes outside words and predict the center word. CBOW is better for smaller datasets.    
+CBOW - takes outside words and predict the center word. CBOW is better for smaller datasets.  
+
 [Distributed Representations of Words and Phrases and their Compositionality]
 (http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)  
 Mikolov et al. 2013. Learns vectors for phrases such as "New York Times." Includes optimizations for skip-gram: heirachical softmax, and negative sampling. Subsampling frequent words. (i.e. frequent words like "the" are skipped periodically to speed things up and improve vector for less frequently used words)  
+
 [Linguistic Regularities in Continuous Space Word Representations](http://www.aclweb.org/anthology/N13-1090)  
 [Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. 2013. Performs well on word similarity and analogy task.  Expands on famous example: King – Man + Woman = Queen  
 [Word2Vec source code](https://code.google.com/p/word2vec/)  
@@ -54,9 +57,10 @@ Mikolov et al. 2013. Learns vectors for phrases such as "New York Times." Includ
 [word2vec Parameter Learning Explained](http://www-personal.umich.edu/~ronxin/pdf/w2vexp.pdf)  
 Rong 2014  
 
-[Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)  
-Chris Olah (2014)  Blog post explaining word2vec.  
+Articles explaining word2vec [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/) and 
+[The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
 
+___
 [GloVe: Global vectors for word representation](http://nlp.stanford.edu/projects/glove/glove.pdf)  
 Pennington, Socher, Manning. 2014. Creates word vectors and relates word2vec to matrix factorizations.  [Evalutaion section led to controversy](http://rare-technologies.com/making-sense-of-word2vec/) by [Yoav Goldberg](https://plus.google.com/114479713299850783539/posts/BYvhAbgG8T2)  
 [Glove source code and training data](http://nlp.stanford.edu/projects/glove/) 
