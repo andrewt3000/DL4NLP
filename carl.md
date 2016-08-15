@@ -47,11 +47,13 @@ Google researchers Vinyals and Le released a research paper, [A neural conversat
 
 Reflective listening sometimes requires responding with the user's original statements. This is topic of the paper [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/pdf/1603.06393v3.pdf) Which gives the following examples:
 
-- Hello Jack, my name is *Chandralekha*.
-- Nice to meet you, *Chandralekha*.
+___
+- Hello Jack, my name is **Chandralekha**.
+- Nice to meet you, **Chandralekha**.
 
-- This new guy *doesn’t perform exactly as we expected*.
-- What do you mean by "*doesn’t perform exactly as we expected*"?
+___
+- This new guy **doesn’t perform exactly as we expected**.
+- What do you mean by "**doesn’t perform exactly as we expected**"?
 
 In reflective listening, you typically track the client's mood and emotion, so the requirements for memory are limited.  However, one shortcoming for seq2seq lstm rnns is that they are typically programmed to only have memory for one dialg exchange (statement/response). However, a dialog system will likely require a more sophisticated ability to focus attention on very long term memory.  Memory and attention mechanisms are an [active topic of research](https://research.facebook.com/pages/764602597000662/reasoning-attention-memory-ram-nips-workshop-2015/).  There are several competing models like Memory Networks, Neural Turing machines, and Stack RNN.  
 (For more technical information on the state of the art see [Deep learning for NLP](https://github.com/andrewt3000/DL4NLP#deep-learning-for-nlp-resources))
