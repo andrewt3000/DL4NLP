@@ -108,6 +108,8 @@ of (Mikolov et al., 2010).](http://www.fit.vutbr.cz/research/groups/speech/publi
 [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](http://arxiv.org/pdf/1507.04808v3.pdf)  
 Serban, Sordoni, Bengio et al. 2015. Extends hierarchical recurrent encoder-decoder neural network.
 
+[Attention with Intention for a Neural Network Conversation Model](http://arxiv.org/pdf/1510.08565v3.pdf)
+Yao et al. 2015 Architecture is three recurrent networks: an encoder, an intention network and a decoder.  
 ___
 [A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf)  
 Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses. Uses [seq2seq framework](http://tensorflow.org/tutorials/seq2seq/index.html).  Seq2Seq was originally designed for machine transation and it "translates" a single sentence, up to around 79 words, to a single sentence response, and has no memory of previous dialog exchanges.  Used in Google [Smart Reply feature for Inbox](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html)  
