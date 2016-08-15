@@ -19,7 +19,9 @@ The techniques of reflective listening include asking open ended questions.  Ope
 Reflective listening is the process of expressing back feelings and thoughts. The counselor may say “You seem frustrated” or “You seemed encouraged by that news.” This is an emotional classification problem. Counselors also summarize thoughts, often at higher levels of abstraction. For instance, if a client complains about a male teacher and his father, the counselor might respond "You are seeking a strong male authority figure."  
 
 ####Non-requirements
-Part of what makes reflective listening a task suitable for automation are the things that are not required. Reflective listening is also non-directive, meaning counselors don’t lead the conversation. Reflective listening doesn't require giving advice.  If a client asks for direct advice such as 
+Part of what makes reflective listening a task suitable for automation are the things that are not required. For instance, Reflective listening is non-directive, meaning counselors don’t lead the conversation.  
+
+Reflective listening also doesn't require giving advice.  If a client asks for direct advice such as 
 - “What should I do?”  
 
 Counselors might respond with an open ended question such as 
