@@ -65,15 +65,10 @@ Another long term memory problem is to not ask questions that have been answered
 In the short term, it is likely that Carl could make suggested replies, like the previously mentioned smart reply feature, and could improve over time as more data is collected and more advanced machine learning algorithms are developed. Choosing between suggested responses,  also has the potential to help train counselors, and enable them to be more consistent and efficient.  
 
 #Non-technical issues and implications
-Many people are skeptical, they don't believe it will work because what makes counseling work is human connection. I see how it might seem impossible because  [genuine empathy and connection are what helps](https://www.youtube.com/watch?v=1Evwgu369Jw). But I believe it is uncertain, and worth trying. In a sense machine learning is collective intelligence, and a tool to connect with the contributors of the training data. There are also potential benefits; one [study](http://www.sciencedirect.com/science/article/pii/S0747563214002647) asserts that people have an increased willingness to disclose information to a computer. 
+It seem counterintuitive to automate a personal process such as counseling.  Part of what makes counseling work is human connection. [Genuine empathy and connection are what helps](https://www.youtube.com/watch?v=1Evwgu369Jw). In a sense machine learning is a tool to connect with the contributors of the training data. There are also potential benefits; one [study](http://www.sciencedirect.com/science/article/pii/S0747563214002647) asserts that people have an increased willingness to disclose information to a computer. 
 
-Another concern is privacy. It is crucial that personal data is not reflected to other users. Privacy is a complicated issue, but there are a few ideas for consideration.  Carl Rogers was one of the first people to record counseling sessions for the purpose of research.  Another idea is to invert the current counseling model where you have confidentiality but not anonymity.  It might be easier to ensure anonymity rather than confidentiality.      
+Privacy is another complicated concern. It is crucial that personal data from one user is not reflected to other users. The typical model in counseling is that user's information is kept confidential. In addition to confidentiality, anonymity may be a practical way to lessen privacy concerns.      
   
-The potential benefits are mind boggling.  What if everyone in the world, speaking any language, at any time, had a place where they could be understood and accepted without judgment and was more capable of living up to their potential?
+The potential benefits are enormous.  What if everyone in the world, speaking any language, at any time, had a place where they could be understood and accepted without judgment and was more capable of living up to their potential? Carl has applications as a stand alone counseling app. It could also augment other various virtual assistants.  
 
 ####Please share this link and contact me at [@andrewt3000](https://twitter.com/andrewt3000)
-  
-
-
-
-
