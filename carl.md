@@ -55,14 +55,17 @@ ___
 - This new guy **doesn’t perform exactly as we expected**.
 - What do you mean by "**doesn’t perform exactly as we expected**"?
 
+One concern is not repeating counselor statements too often. Diversity in responses is the topic of [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541v3.pdf). 
+
+Another concern is to not ask questions that have been answered previously. This problem may benefit from research in QA systems.  Here is a potential example of using an open ended question inappropriately:  
+
+- I am sad. My cat died.  
+- What is the reason you're sad?
+
 In reflective listening, you typically track the client's mood and emotion, so the requirements for memory are limited.  However, one shortcoming for seq2seq lstm rnns is that they are typically programmed to only have memory for one dialg exchange (statement/response). However, a dialog system will likely require a more sophisticated ability to focus attention on very long term memory.  Memory and attention mechanisms are an [active topic of research](https://research.facebook.com/pages/764602597000662/reasoning-attention-memory-ram-nips-workshop-2015/).  There are several competing models like Memory Networks, Neural Turing machines, and Stack RNN.  
 (For more technical information on the state of the art see [Deep learning for NLP](https://github.com/andrewt3000/DL4NLP#deep-learning-for-nlp-resources))
 
-One specific concern for long term memory is not repeating counselor statements too often. Diversity in responses is the topic of [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541v3.pdf). 
-
-Another long term memory problem is to not ask questions that have been answered previously. This problem may benefit from research in QA systems.  
-
-In the short term, it is likely that Carl could make suggested replies, like the previously mentioned smart reply feature, and could improve over time as more data is collected and more advanced machine learning algorithms are developed. Choosing between suggested responses,  also has the potential to help train counselors, and enable them to be more consistent and efficient.  
+In the short term, it is likely that Carl could make suggested replies, like the Google smart reply feature, and could improve over time as more data is collected and more advanced machine learning algorithms are developed. Choosing between suggested responses,  also has the potential to help train counselors, and enable them to be more consistent and efficient.  
 
 #Non-technical issues and implications
 It is counterintuitive to automate a personal process such as counseling.  What makes counseling work is  [Genuine empathy and human connection](https://www.youtube.com/watch?v=1Evwgu369Jw). In a sense machine learning is a tool to connect with the contributors of the training data. There are also potential benefits; one [study](http://www.sciencedirect.com/science/article/pii/S0747563214002647) asserts that people have an increased willingness to disclose information to a computer. 
