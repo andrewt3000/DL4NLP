@@ -95,6 +95,12 @@ Bahdanau, Cho 2014.  "comparable to the existing state-of-the-art phrase-based s
 Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses LSTM RNNs to generate translations. " Our main result is that on an English to French translation task from the WMT’14 dataset, the translations produced by the LSTM achieve a BLEU score of 34.8"  
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
+[Effective Approaches to Attention-based Neural Machine Translation](http://stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)  
+Luong et al. 2015  
+
+[Context-Dependent Word Representation for Neural
+Machine Translation](http://arxiv.org/pdf/1607.00578v1.pdf)  
+Choi, Cho, Bengio 2016  
 
 ##Convesation modeling / Dialog
 [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/pdf/1503.02364v2.pdf)  
