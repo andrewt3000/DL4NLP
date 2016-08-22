@@ -87,6 +87,9 @@ Dai, Le 2015 "With pretraining, we are able to train long short term memory recu
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 
 ##Machine Translation
+[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)  
+Cho et al. 2014 Breakthrough deep learning paper on machine translation.  
+
 [Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf)  
 Bahdanau, Cho 2014.  "comparable to the existing state-of-the-art phrase-based system on the task of English-to-French translation."  Implements attention mechanism.  
 [English to French Demo](http://104.131.78.120/)  
