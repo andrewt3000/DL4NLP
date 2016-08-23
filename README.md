@@ -94,8 +94,13 @@ Cho et al. 2014 Breakthrough deep learning paper on machine translation. Introdu
 Bahdanau, Cho, Bengio 2014.  "comparable to the existing state-of-the-art phrase-based system on the task of English-to-French translation."  Implements attention mechanism.  
 [English to French Demo](http://104.131.78.120/)  
 
+[On Using Very Large Target Vocabulary for Neural Machine Translation](https://arxiv.org/pdf/1412.2007v2.pdf)  
+Jean, Cho, Memisevic, Bengio 2014.    
+Result: English -> German bleu score = 21.59.  
+
 [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v3.pdf)  
-Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses LSTM RNNs to generate translations. " Our main result is that on an English to French translation task from the WMT’14 dataset, the translations produced by the LSTM achieve a BLEU score of 34.8"  
+Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses LSTM RNNs to generate translations.  
+Result: English to French translation task from the WMT’14 dataset, the translations produced by the LSTM achieve a BLEU score of 34.8  
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
 [Effective Approaches to Attention-based Neural Machine Translation](http://stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)  
