@@ -66,7 +66,7 @@ In reflective listening, you typically track the client's mood and emotion, so t
 In the short term, it is likely that Carl could make suggested replies, like the Google smart reply feature, and could improve over time as more data is collected and more advanced machine learning algorithms are developed. Choosing between suggested responses,  also has the potential to help train counselors, and enable them to be more consistent and efficient.  
 
 #Non-technical issues and implications
-It is counterintuitive to automate a personal process such as counseling.  What makes counseling work is  [Genuine empathy and human connection](https://www.youtube.com/watch?v=1Evwgu369Jw). In a sense machine learning is a tool to connect with the contributors of the training data. There are also potential benefits; one [study](http://www.sciencedirect.com/science/article/pii/S0747563214002647) asserts that people have an increased willingness to disclose information to a computer. 
+It seems unnatural to automate a personal process such as counseling.  What makes counseling work is  [Genuine empathy and human connection](https://www.youtube.com/watch?v=1Evwgu369Jw). In a sense machine learning is a tool to connect with the contributors of the training data. There are also potential benefits; one [study](http://www.sciencedirect.com/science/article/pii/S0747563214002647) asserts that people have an increased willingness to disclose information to a computer. 
 
 Privacy is another complicated concern. It is crucial that personal data from one user is not reflected to other users. The typical model in counseling is that user's information is kept confidential. In addition to confidentiality, anonymity may be a practical way to lessen privacy concerns.      
   
