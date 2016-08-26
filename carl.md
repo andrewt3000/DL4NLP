@@ -63,7 +63,7 @@ Another concern is to not ask questions that have been answered previously. This
 - What is the reason you're sad?
 
 ####Unconventional features
-In most dialog systems, the words are the features. However, other features may improve the quality.
+In most dialog systems, the words and their associated vectors are the features. However, other features may improve the quality.
 
 It is likely that keeping a normalized count of the number of exchanges is a useful feature. Consider an example where a user states "hello."  At the begining of a conversation, replying "hello" is likely an appropriate response. In the middle of a conversation stating hello is more likely to be an indication that the user thinks you don't understand or not responding quickly enough. It could also give context to queues that user wants to finish the session.  
 
