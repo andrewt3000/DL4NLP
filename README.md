@@ -8,7 +8,7 @@ Andrew Ng
 Introductory course for linear regression, logistic regression, and neural networks.  
 Also covers support vector machines, k-means, etc.  
 
-[Deep Learning (Book)](http://goodfeli.github.io/dlbook/)  
+[Deep Learning (Book)](http://www.deeplearningbook.org/)  
 [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)  
 Advanced book about deep learning.
 
