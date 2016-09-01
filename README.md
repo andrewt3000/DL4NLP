@@ -16,7 +16,7 @@ Advanced book about deep learning.
 
 ## Deep Learning for NLP 
 [Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
-Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp. Covers topics such as sentence segmentation, word tokenizing, word normalization, n-grams, named entity recognition, part of speech tagging.  
+Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp. Covers topics such as sentence segmentation, word tokenizing, word normalization, n-grams, named entity recognition, part of speech tagging.  **Currently not available**  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2016)  Class with syllabus, and slides.  
