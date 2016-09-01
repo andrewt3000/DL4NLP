@@ -8,18 +8,11 @@ Andrew Ng
 Introductory course for linear regression, logistic regression, and neural networks.  
 Also covers support vector machines, k-means, etc.  
 
-[Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  
-Intro to basic ML concepts for developers.  
-
 [Deep Learning (Book)](http://goodfeli.github.io/dlbook/)  
 [Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)  
 Advanced book about deep learning.
 
-[A few useful things to know about machine learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  
-Pedro Domingos  
-
-[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)  
-Blog post by Chris Olah.  
+[My notes on neural networks](https://github.com/andrewt3000/MachineLearning/blob/master/neuralNets.md)  
 
 ## Deep Learning for NLP 
 [Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
