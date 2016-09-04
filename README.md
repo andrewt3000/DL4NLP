@@ -85,7 +85,7 @@ In 2014, neural machine translation (NMT) performance became comprable to state 
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf) ([abstract](https://arxiv.org/abs/1406.1078))    
 Cho et al. 2014 Breakthrough deep learning paper on machine translation. Introduces basic sequence to sequence model which includes two rnns, an encoder for input and a decoder for output.  
 
-[Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf)  
+[Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf) ([abstract](https://arxiv.org/abs/1409.0473))     
 Bahdanau, Cho, Bengio 2014.  
 Implements attention mechanism. "Each time the proposed model generates a word in a translation, it
 (soft-)searches for a set of positions in a source sentence where the most relevant information is
@@ -110,7 +110,7 @@ Luong, Pham, Manning. 2015
 Result: English -> German 25.9 BLEU points  
 
 [Context-Dependent Word Representation for Neural
-Machine Translation](http://arxiv.org/pdf/1607.00578v1.pdf) 
+Machine Translation](http://arxiv.org/pdf/1607.00578v1.pdf)  
 Choi, Cho, Bengio 2016  
 "we propose to contextualize the word embedding vectors using a nonlinear bag-of-words representation of the source sentence."  
 "we propose to represent special tokens (such as numbers, proper nouns and acronyms) with typed symbols to facilitate translating those words that are not well-suited to be translated via continuous vectors."   
