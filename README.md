@@ -58,7 +58,7 @@ ___
 Pennington, Socher, Manning. 2014. Creates word vectors and relates word2vec to matrix factorizations.  [Evalutaion section led to controversy](http://rare-technologies.com/making-sense-of-word2vec/) by [Yoav Goldberg](https://plus.google.com/114479713299850783539/posts/BYvhAbgG8T2)  
 [Glove source code and training data](http://nlp.stanford.edu/projects/glove/) 
 
-## Thought Vectors
+## Sentiment Analysis
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  This concept is used for many text classification tasks such as sentiment analysis.      
 
 [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://nlp.stanford.edu/~socherr/EMNLP2013_RNTN.pdf)  
@@ -80,7 +80,9 @@ Dai, Le 2015 "With pretraining, we are able to train long short term memory recu
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 
 ##Machine Translation
-[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)  
+In 2014, neural machine translation performance became comprable to state of the are statistical machine translation.  
+
+[Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf) [abstract](https://arxiv.org/abs/1406.1078)    
 Cho et al. 2014 Breakthrough deep learning paper on machine translation. Introduces basic sequence to sequence model which includes two rnns, an encoder for input and a decoder for output.  
 
 [Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf)  
@@ -92,8 +94,8 @@ Jean, Cho, Memisevic, Bengio 2014.
 Result: English -> German bleu score = 21.59.  
 
 [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v3.pdf)  
-Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses LSTM RNNs to generate translations.  
-Result: English to French translation task from the WMT’14 dataset, the translations produced by the LSTM achieve a BLEU score of 34.8  
+Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses seq2seq to generate translations.  
+Result: English -> French bleu score = 34.8 (WMT’14 dataset)
 A key contribution is improvements from reversing the source sentences. My observation is that reversing source sentence gives the model symmetry and possibly makes the network reversible (i.e. train on French to English but run backwards for English to French).    
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
@@ -108,7 +110,7 @@ Choi, Cho, Bengio 2016
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
 Xu et al. 2015 Creates captions by feeding image into a CNN which feeds into hidden state of an RNN that generates the caption. At each time step the RNN outputs next word and the next location to pay attention to via a probability over grid locations. Uses 2 types of attention soft and hard. Soft attention uses gradient descent and backprop and is deterministic. Hard attention selects the element with highest probability. Hard attention uses reinforcement learning, rather than backprop and is stochastic.  
 
-##Convesation modeling / Dialog
+##Conversation modeling / Dialog
 [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/pdf/1503.02364v2.pdf)  
 Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  Achieves one round conversations with 75% appropriate responses.  
 
