@@ -104,6 +104,11 @@ Result: English -> French bleu score = 34.8 (WMT’14 dataset)
 A key contribution is improvements from reversing the source sentences.  
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
+[Addressing the Rare Word Problem in Neural Machine Translation](https://arxiv.org/pdf/1410.8206v4.pdf) ([abstract](https://arxiv.org/abs/1410.8206))  
+Luong, Sutskever, Le, Vinyals, Zaremba 2014    
+Replace UNK words with dictionary lookup.  
+Result: English -> French BLEU score = 37.5.  
+
 [Effective Approaches to Attention-based Neural Machine Translation](http://stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)  
 Luong, Pham, Manning. 2015  
 2 models of attention: global and local.  
