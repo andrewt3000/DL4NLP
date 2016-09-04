@@ -86,7 +86,11 @@ In 2014, neural machine translation (NMT) performance became comprable to state 
 Cho et al. 2014 Breakthrough deep learning paper on machine translation. Introduces basic sequence to sequence model which includes two rnns, an encoder for input and a decoder for output.  
 
 [Neural Machine Translation by jointly learning to align and translate](http://arxiv.org/pdf/1409.0473v6.pdf)  
-Bahdanau, Cho, Bengio 2014.  "comparable to the existing state-of-the-art phrase-based system on the task of English-to-French translation."  Implements attention mechanism.  
+Bahdanau, Cho, Bengio 2014.  
+Implements attention mechanism. "Each time the proposed model generates a word in a translation, it
+(soft-)searches for a set of positions in a source sentence where the most relevant information is
+concentrated"  
+Result: "comparable to the existing state-of-the-art phrase-based system on the task of English-to-French translation."  
 [English to French Demo](http://104.131.78.120/)  
 
 [On Using Very Large Target Vocabulary for Neural Machine Translation](https://arxiv.org/pdf/1412.2007v2.pdf)  
@@ -96,8 +100,8 @@ Result: English -> German bleu score = 21.59 (target vocabulary of 50,000)
 
 [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v3.pdf)  
 Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses seq2seq to generate translations.  
-Result: English -> French bleu score = 34.8 (WMT’14 dataset)
-A key contribution is improvements from reversing the source sentences. My observation is that reversing source sentence gives the model symmetry and possibly makes the network reversible (i.e. train on French to English but run backwards for English to French).    
+Result: English -> French bleu score = 34.8 (WMT’14 dataset)  
+A key contribution is improvements from reversing the source sentences. 
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
 [Effective Approaches to Attention-based Neural Machine Translation](http://stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)  
