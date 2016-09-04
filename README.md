@@ -80,7 +80,7 @@ Dai, Le 2015 "With pretraining, we are able to train long short term memory recu
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 
 ##Machine Translation
-In 2014, neural machine translation performance became comprable to state of the are statistical machine translation.  
+In 2014, neural machine translation performance became comprable to state of the art statistical machine translation.  
 
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf) ([abstract](https://arxiv.org/abs/1406.1078))    
 Cho et al. 2014 Breakthrough deep learning paper on machine translation. Introduces basic sequence to sequence model which includes two rnns, an encoder for input and a decoder for output.  
