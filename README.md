@@ -79,8 +79,8 @@ Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
 Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 
-##Machine Translation
-In 2014, neural machine translation performance became comprable to state of the art statistical machine translation.  
+##Neural Machine Translation
+In 2014, neural machine translation (NMT) performance became comprable to state of the art statistical machine translation(SMT).  
 
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf) ([abstract](https://arxiv.org/abs/1406.1078))    
 Cho et al. 2014 Breakthrough deep learning paper on machine translation. Introduces basic sequence to sequence model which includes two rnns, an encoder for input and a decoder for output.  
@@ -91,7 +91,8 @@ Bahdanau, Cho, Bengio 2014.  "comparable to the existing state-of-the-art phrase
 
 [On Using Very Large Target Vocabulary for Neural Machine Translation](https://arxiv.org/pdf/1412.2007v2.pdf)  
 Jean, Cho, Memisevic, Bengio 2014.    
-Result: English -> German bleu score = 21.59.  
+"we try replacing each [UNK] token with the aligned source word or its most likely translation determined by another word alignment model."  
+Result: English -> German bleu score = 21.59 (target vocabulary of 50,000)    
 
 [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v3.pdf)  
 Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses seq2seq to generate translations.  
