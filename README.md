@@ -16,7 +16,7 @@ Advanced book about deep learning.
 
 ## Deep Learning for NLP 
 [Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
-Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp. Covers topics such as sentence segmentation, word tokenizing, word normalization, n-grams, named entity recognition, part of speech tagging.  **Currently not available**  
+Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp. Covers topics such as [sentence segmentation](https://github.com/diasks2/pragmatic_segmenter), word tokenizing, word normalization, n-grams, named entity recognition, part of speech tagging.  **Currently not available**  
 
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2016)  Class with syllabus, and slides.  
@@ -101,15 +101,20 @@ Result: English -> German bleu score = 21.59 (target vocabulary of 50,000)
 [Sequence to Sequence Learning with Neural Networks](http://arxiv.org/pdf/1409.3215v3.pdf)  
 Sutskever, Vinyals, Le 2014.  ([nips presentation](http://research.microsoft.com/apps/video/?id=239083)). Uses seq2seq to generate translations.  
 Result: English -> French bleu score = 34.8 (WMT’14 dataset)  
-A key contribution is improvements from reversing the source sentences. 
+A key contribution is improvements from reversing the source sentences.  
 [seq2seq tutorial](http://tensorflow.org/tutorials/seq2seq/index.html) in [TensorFlow](http://tensorflow.org/).   
 
 [Effective Approaches to Attention-based Neural Machine Translation](http://stanford.edu/~lmthang/data/papers/emnlp15_attn.pdf)  
-Luong et al. 2015  
+Luong, Pham, Manning. 2015  
+2 models of attention: global and local.  
+Result: English -> German 25.9 BLEU points  
 
 [Context-Dependent Word Representation for Neural
-Machine Translation](http://arxiv.org/pdf/1607.00578v1.pdf)  
+Machine Translation](http://arxiv.org/pdf/1607.00578v1.pdf) 
 Choi, Cho, Bengio 2016  
+"we propose to contextualize the word embedding vectors using a nonlinear bag-of-words representation of the source sentence."  
+"we propose to represent special tokens (such as numbers, proper nouns and acronyms) with typed symbols to facilitate translating those words that are not well-suited to be translated via continuous vectors."   
+
 
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
