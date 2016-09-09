@@ -171,7 +171,10 @@ Dodge et. al 2015. Tests Memory Networks on 4 tasks including reddit dialog task
 See [Jason Weston lecture on MemNN](https://www.youtube.com/watch?v=Xumy3Yjq4zk)  
   
 [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)  
-Graves et al. 2014.  
+Graves, Wayne, Danihelka 2014.  
+We extend the capabilities of neural networks by coupling them to external memory resources, which they can interact with by attentional processes. The combined system is analogous to a Turing Machine or Von Neumann architecture but is differentiable end-toend, allowing it to be efficiently trained with gradient descent. Preliminary results demonstrate
+that Neural Turing Machines can infer simple algorithms such as copying, sorting, and associative recall from input and output examples.
+[Olah and Carter blog on NTM](http://distill.pub/2016/augmented-rnns/#neural-turing-machines)  
 
 [Inferring Algorithmic Patterns with Stack-Augmented Recurrent Nets](http://arxiv.org/pdf/1503.01007v4.pdf)  
 Joulin, Mikolov 2015. [Stack RNN source code](https://github.com/facebook/Stack-RNN) and [blog post](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)  
