@@ -76,7 +76,10 @@ Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
 Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
 
 [Semi-supervised Sequence Learning](http://arxiv.org/pdf/1511.01432.pdf)  
-Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
+Dai, Le 2015  
+Approach: "We present two approaches that use unlabeled data to improve sequence learning with recurrent networks. The first approach is to predict what comes next in a sequence, which is a conventional language model in natural language processing.
+The second approach is to use a sequence autoencoder..."
+Result: "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 
 ##Neural Machine Translation
