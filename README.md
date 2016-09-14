@@ -83,8 +83,9 @@ Result: "With pretraining, we are able to train long short term memory recurrent
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 
 [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)  
-Joulin, Grave, Bojanowski, Mikolov 2016 Facebook AI Research. "Our experiments show that our fast text classi-
-fier fastText is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation."
+Joulin, Grave, Bojanowski, Mikolov 2016 Facebook AI Research.  
+"Our experiments show that our fast text classi-
+fier fastText is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation."  
 [FastText blog](https://research.facebook.com/blog/fasttext/)  
 [FastText Code](https://github.com/facebookresearch/fastText)  
 
