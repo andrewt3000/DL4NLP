@@ -78,14 +78,13 @@ Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
 [Semi-supervised Sequence Learning](http://arxiv.org/pdf/1511.01432.pdf)  
 Dai, Le 2015  
 Approach: "We present two approaches that use unlabeled data to improve sequence learning with recurrent networks. The first approach is to predict what comes next in a sequence, which is a conventional language model in natural language processing.
-The second approach is to use a sequence autoencoder..."
+The second approach is to use a sequence autoencoder..."  
 Result: "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
 timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
 
 [Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759)  
 Joulin, Grave, Bojanowski, Mikolov 2016 Facebook AI Research.  
-"Our experiments show that our fast text classi-
-fier fastText is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation."  
+"Our experiments show that our fast text classifier fastText is often on par with deep learning classifiers in terms of accuracy, and many orders of magnitude faster for training and evaluation."  
 [FastText blog](https://research.facebook.com/blog/fasttext/)  
 [FastText Code](https://github.com/facebookresearch/fastText)  
 
