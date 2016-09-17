@@ -58,6 +58,10 @@ ___
 Pennington, Socher, Manning. 2014. Creates word vectors and relates word2vec to matrix factorizations.  [Evalutaion section led to controversy](http://rare-technologies.com/making-sense-of-word2vec/) by [Yoav Goldberg](https://plus.google.com/114479713299850783539/posts/BYvhAbgG8T2)  
 [Glove source code and training data](http://nlp.stanford.edu/projects/glove/) 
 
+[Enriching Word Vectors with Subword Information](https://arxiv.org/pdf/1607.04606v1.pdf)  
+Bojanowski, Grave, Joulin, Mikolov 2016  
+[FastText Code](https://github.com/facebookresearch/fastText)  
+
 ## Sentiment Analysis
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  This concept is used for many text classification tasks such as sentiment analysis.      
 
