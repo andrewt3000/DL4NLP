@@ -1,18 +1,8 @@
 # Deep Learning for NLP resources
 
-Introductory and state of the art resources for NLP sequence modeling tasks such as machine translation, image cpationing, and dialog.
+State of the art resources for NLP sequence modeling tasks such as machine translation, image cpationing, and dialog.
 
-##Machine Learning: Neural Networks, RNN, LSTM
-[Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome?module=tN10A)  
-Andrew Ng  
-Introductory course for linear regression, logistic regression, and neural networks.  
-Also covers support vector machines, k-means, etc.  
-
-[Deep Learning (Book)](http://www.deeplearningbook.org/)  
-[Yoshua Bengio](https://scholar.google.com/citations?user=kukA0LcAAAAJ&hl=en)  
-Advanced book about deep learning.
-
-[My notes on neural networks](https://github.com/andrewt3000/MachineLearning/blob/master/neuralNets.md)  
+[My notes on neural networks, rnn, lstm](https://github.com/andrewt3000/MachineLearning/blob/master/neuralNets.md)  
 
 ## Deep Learning for NLP 
 [Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
