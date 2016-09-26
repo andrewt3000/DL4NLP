@@ -141,7 +141,7 @@ Uses [Recurrent Neural Network Language Model (RLM) architecture
 of (Mikolov et al., 2010).](http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf)  source code: [RNNLM Toolkit](http://www.rnnlm.org/)
 
 [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](http://arxiv.org/pdf/1507.04808v3.pdf)  
-Serban, Sordoni, Bengio et al. 2015. Extends hierarchical recurrent encoder-decoder neural network (HRED).
+Serban, Sordoni, Bengio et al. 2015. Extends [hierarchical recurrent encoder-decoder](https://arxiv.org/abs/1507.02221) neural network (HRED).
 
 [Attention with Intention for a Neural Network Conversation Model](http://arxiv.org/pdf/1510.08565v3.pdf)  
 Yao et al. 2015 Architecture is three recurrent networks: an encoder, an intention network and a decoder.  
