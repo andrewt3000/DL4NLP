@@ -124,6 +124,9 @@ Choi, Cho, Bengio 2016
 "we propose to contextualize the word embedding vectors using a nonlinear bag-of-words representation of the source sentence."  
 "we propose to represent special tokens (such as numbers, proper nouns and acronyms) with typed symbols to facilitate translating those words that are not well-suited to be translated via continuous vectors."   
 
+[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](http://arxiv.org/abs/1609.08144)  
+Wu et al. 2016  
+[blog post](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)  
 
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
