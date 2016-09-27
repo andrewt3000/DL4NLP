@@ -127,6 +127,8 @@ Choi, Cho, Bengio 2016
 [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](http://arxiv.org/abs/1609.08144)  
 Wu et al. 2016  
 [blog post](https://research.googleblog.com/2016/09/a-neural-network-for-machine.html)  
+"WMT’14 English-to-French, our single model scores 38.95 BLEU"  
+"WMT’14 English-to-German, our single model scores 24.17 BLEU"  
 
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
