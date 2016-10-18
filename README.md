@@ -1,6 +1,6 @@
 # Deep Learning for NLP resources
 
-State of the art resources for NLP sequence modeling tasks such as machine translation, image cpationing, and dialog.
+State of the art resources for NLP sequence modeling tasks such as machine translation, image captioning, and dialog.
 
 [My notes on neural networks, rnn, lstm](https://github.com/andrewt3000/MachineLearning/blob/master/neuralNets.md)  
 
