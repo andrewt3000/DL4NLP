@@ -132,7 +132,7 @@ Wu et al. 2016
 
 [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)  
 Johnson et al. 2016  
-(blog post)[https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html]  
+[blog post](https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html)  
 Translations between untrained language pairs.  
 
 Google has started [rolling out NMT](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) to it's production system, and it's a [significant improvement](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0).  
