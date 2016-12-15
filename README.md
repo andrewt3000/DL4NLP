@@ -130,6 +130,13 @@ Wu et al. 2016
 "WMT’14 English-to-French, our single model scores 38.95 BLEU"  
 "WMT’14 English-to-German, our single model scores 24.17 BLEU"  
 
+[Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558)  
+Johnson et al. 2016  
+(blog post)[https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html]  
+Translations between untrained language pairs.  
+
+Google has started [rolling out NMT](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) to it's production system, and it's a [significant improvement](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0).  
+
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
 Xu et al. 2015 Creates captions by feeding image into a CNN which feeds into hidden state of an RNN that generates the caption. At each time step the RNN outputs next word and the next location to pay attention to via a probability over grid locations. Uses 2 types of attention soft and hard. Soft attention uses gradient descent and backprop and is deterministic. Hard attention selects the element with highest probability. Hard attention uses reinforcement learning, rather than backprop and is stochastic.  
