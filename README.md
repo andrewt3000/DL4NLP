@@ -15,6 +15,10 @@ Videos: [2015 lectures] (https://www.youtube.com/channel/UCsGC3XXF1ThHwtDo18d7WV
 [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
 Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.  
 
+[Oxford Deep Learning for NLP class](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)  
+[Phil Blunsom](https://scholar.google.co.uk/citations?user=eJwbbXEAAAAJ&hl=en). (2017) Class by Deep Mind NLP Group.  
+Lecture slides, videos, and practicals: [Github Repository](https://github.com/oxford-cs-deepnlp-2017)  
+
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
 Word vectors are numeric representations of words where similar words have similar vectors. Word vectors are often used as input to deep learning systems. This process is sometimes called pretraining. 
