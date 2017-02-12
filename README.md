@@ -16,7 +16,7 @@ Videos: [2015 lectures] (https://www.youtube.com/channel/UCsGC3XXF1ThHwtDo18d7WV
 Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.  
 
 [Oxford Deep Learning for NLP class](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)  
-[Phil Blunsom](https://scholar.google.co.uk/citations?user=eJwbbXEAAAAJ&hl=en). (2017) Class by Deep Mind NLP Group.  
+[Phil Blunsom](https://scholar.google.co.uk/citations?user=eJwbbXEAAAAJ&hl=en). (2017) Class by Deep Mind NLP Group. **Currently ongoing**  
 Lecture slides, videos, and practicals: [Github Repository](https://github.com/oxford-cs-deepnlp-2017)  
 
 ## Word Vectors
