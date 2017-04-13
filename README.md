@@ -88,7 +88,7 @@ Joulin, Grave, Bojanowski, Mikolov 2016 Facebook AI Research.
 [FastText blog](https://research.facebook.com/blog/fasttext/)  
 [FastText Code](https://github.com/facebookresearch/fastText)  
 
-##Neural Machine Translation
+## Neural Machine Translation
 In 2014, neural machine translation (NMT) performance became comprable to state of the art statistical machine translation(SMT).  
 
 [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf) ([abstract](https://arxiv.org/abs/1406.1078))    
@@ -148,7 +148,7 @@ Xu et al. 2015 Creates captions by feeding image into a CNN which feeds into hid
 
 [Open source implementation in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)  
 
-##Conversation modeling / Dialog
+## Conversation modeling / Dialog
 [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/pdf/1503.02364v2.pdf)  
 Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  Achieves one round conversations with 75% appropriate responses.  
 
@@ -186,7 +186,7 @@ Article summary of state of the art, and challenges for chatbots.
 [Deep learning for chatbots. part 2](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)  
 Implements a retrieval based dialog agent using dual encoder lstm with TensorFlow, based on the Ubuntu dataset [[paper](http://arxiv.org/pdf/1506.08909v3.pdf)] includes [source code](https://github.com/dennybritz/chatbot-retrieval/)  
 
-##Memory and Attention Models
+## Memory and Attention Models
 Attention mechanisms allows the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  - [Attention and Memory in Deep Learning and NLP](http://www.opendatascience.com/blog/attention-and-memory-in-deep-learning-and-nlp/)  
 
 [Memory Networks](http://arxiv.org/pdf/1410.3916v10.pdf) Weston et. al 2014, and 
