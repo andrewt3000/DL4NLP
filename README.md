@@ -141,6 +141,11 @@ Translations between untrained language pairs.
 
 Google has started [rolling out NMT](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) to it's production system, and it's a [significant improvement](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0).  
 
+[Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)  
+Gehring et al. 2017 Facebook AI research 
+[blog post](https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/)  
+"We outperform the accuracy of the deep LSTM setup of Wu et al. (2016) on both WMT'14 English-German and WMT'14 English-French translation at an order of magnitude faster speed, both on GPU and CPU."
+
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
 Xu et al. 2015 Creates captions by feeding image into a CNN which feeds into hidden state of an RNN that generates the caption. At each time step the RNN outputs next word and the next location to pay attention to via a probability over grid locations. Uses 2 types of attention soft and hard. Soft attention uses gradient descent and backprop and is deterministic. Hard attention selects the element with highest probability. Hard attention uses reinforcement learning, rather than backprop and is stochastic.  
