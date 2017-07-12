@@ -184,6 +184,9 @@ Li et al. 2016  Proposes persona-based models for handling the issue of speaker 
 [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541v3.pdf)  
 Li et al. 2016. Uses reinforcement learing to generate diverse responses. Trains 2 agents to chat with each other. Builds on seq2seq.   
 
+[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf)  
+Li et al. 2017.  
+[Source code for Li papers](https://github.com/jiweil/Neural-Dialogue-Generation)  
 ___
 [Deep learning for chatbots](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)  
 Article summary of state of the art, and challenges for chatbots.  
