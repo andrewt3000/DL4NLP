@@ -62,15 +62,6 @@ Another concern is to not ask questions that have been answered previously. This
 - I am sad. My cat died.  
 - What is the reason you're sad?
 
-#### Unconventional features
-In most dialog systems, the words and their associated vectors are the features. However, other features may improve the quality.
-
-It is likely that keeping a normalized count of the number of exchanges is a useful feature. Consider an example where a user states "hello."  At the begining of a conversation, replying "hello" is likely an appropriate response. In the middle of a conversation stating hello is more likely to be an indication that the user thinks you don't understand or not responding quickly enough. It could also give context to queues that user wants to finish the session.  
-
-Another likely feature is a normalized time since the user's last response. That will give context to statements such as "brb", "Ok I'm back" or "Are you still there?"  
-
-There is no research to support these features as useful. This is speculation.  
-
 #### Memory
 In reflective listening, you typically track the client's mood and emotion, so the requirements for memory are limited.  However, one shortcoming for seq2seq lstm rnns is that they are typically programmed to only have memory for one dialog exchange (statement/response). They are limited to around 79 words in length. However, a dialog system will likely require a more sophisticated ability to focus attention on very long term memory.  Memory and attention mechanisms are an [active topic of research](https://research.facebook.com/pages/764602597000662/reasoning-attention-memory-ram-nips-workshop-2015/).  There are several competing models like Memory Networks, Neural Turing machines, and Stack RNN.  
 (For more technical information on the state of the art see [Deep learning for NLP](https://github.com/andrewt3000/DL4NLP#deep-learning-for-nlp-resources))
@@ -85,8 +76,6 @@ Privacy is another complicated concern. It is crucial that personal data from on
 #### CrowdSourcing
 It may possible to crowdsource the task of creating this data. Carl Rogers' work was popular and accessible to non-professionals, and he thought these techniques should be used in  interpersonal relationships in general. Many lay people have been trained in reflective listening techniques as volunteers at the [crisis center](http://www.crisiscenterbham.com/), the national suicide prevention hotline, and [7 cups](http://www.7cups.com/) and others. These counselors are not required to be licensed by the state but are instead called crisis counselors or listeners.  Although there are licensed counselors available for support, many of the volunteers at these places are unlicensed lay people. As illustrated by [Microsoft Tay](https://en.wikipedia.org/wiki/Tay_(bot)) bot, screening, training and some review of training data are neccessary to crowdsourcing.  
 
-
-  
 The potential benefits are enormous.  What if everyone in the world, speaking any language, at any time, had a place where they could be understood and accepted without judgment and was more capable of living up to their potential? 
 
 #### Please share this link and contact me at [@andrewt3000](https://twitter.com/andrewt3000)
