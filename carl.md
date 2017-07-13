@@ -12,6 +12,12 @@ Recently, deep learning algorithms have advanced state of the art dialog systems
 # Consistent Voice
 Because machine learning requires "big data," it will require many different counselors to create enough data. Many AI dialog research papers, inclucding [Neural Convesation Model](https://arxiv.org/abs/1506.05869), use social media and movie and tv subtitle sources as training data. Some of these sources are in excess of one billion words, but suffer from an inconsistent voice.  It may be possible to train many counselors using reflective listening to respond consistently. Reflective listening facilitates a consistent voice, by not disclosing personal information.  
 
+Here is an example of inconsistent voice problem from Neural Conversation Model:  
+Human: what is your job ?  
+Machine: i ’m a lawyer .  
+Human: what do you do ?  
+Machine: i ’m a doctor .  
+
 #### Open ended questions
 The techniques of reflective listening include asking open ended questions.  Open ended questions are questions that can’t be answered with a yes or no response. They serve to move the conversation forward. Examples of open ended questions are: 
 - “What is on your mind?” 
