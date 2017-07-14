@@ -43,32 +43,26 @@ Counselors using reflective listening don’t disclose personal information. If 
 ![reflective listening](https://github.com/andrewt3000/carl_voice/raw/master/reflecting.png)
 
 # Machine Learning
-[Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) has made many advancements including speech recognition, object recognition in images and machine translation. Companies are using deep learning for many language--related tasks such as to [improving searches](http://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440), [creating image captions for the blind](http://www.wired.com/2015/10/facebook-artificial-intelligence-describes-photo-captions-for-blind-people/), and creating question--answering agents and assistants, like [Facebook M](https://www.facebook.com/Davemarcus/posts/10156070660595195), Apple's Siri, Amazon's Alexa, Microsoft's Cortana, and Google's Assistant. 
+[Deep learning](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) has made many advancements including speech recognition, object recognition, and machine translation. Companies are using deep learning for many language--related tasks such as to [improving searches](http://searchengineland.com/faq-all-about-the-new-google-rankbrain-algorithm-234440), [image captioning](http://www.wired.com/2015/10/facebook-artificial-intelligence-describes-photo-captions-for-blind-people/), and creating question--answering agents and assistants, like [Facebook M](https://www.facebook.com/Davemarcus/posts/10156070660595195), Apple's Siri, Amazon's Alexa, Microsoft's Cortana, and Google's Assistant. Many of these Deep learning techniques are applicable to dialog systems.
 
 #### Word Vectors
-One tool released by then Google researcher [Tomas Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) and others in 2013 is [word2vec](https://code.google.com/p/word2vec/).  It is a program that takes large bodies of text and converts each word into a series of numbers called a vector. An important property of these numbers is that similar words have similar numbers.  For instance it knows that banana and pear are similar words. Encoding words into numbers is an important step because Machine learning uses math.  It is also able to perform analogies like: king - man + woman = queen.  
+One tool released by then Google researcher [Tomas Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) and others in 2013 is [word2vec](https://code.google.com/p/word2vec/).  It is a program that takes large bodies of text and converts each word into a series of numbers called a vector. An important property of these vectors is that similar words have similar numbers.  For instance it knows that banana and pear are similar words. Encoding words into numbers is an important step because Machine learning uses math.  It is also able to perform analogies like: king - man + woman = queen.  
 
 This functionality, detecting similarity and performing analogies, enables deep learning systems to generalize dialog training data.  The system could find similar statements from clients using vector difference calculations and responses could vary pronoun genders, verb tenses, and between singular and plural using the analogy capabilities. 
 
 #### Sequence to Sequence
-Google researchers Vinyals and Le released a research paper, [A neural conversation model](http://arxiv.org/pdf/1506.05869v3.pdf), where they train an agent using data from an internal tech support chat system, and data from Open Subtitles, which has movie and tv dialog for captioning. They use the seq2seq framework which was originally designed to do machine translation.  It takes a single sentence like "What is the purpose of life?" and  "translates" it to a single sentence response like "to serve the greater good." This [research powers the Smart Reply feature](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html) for the Google Inbox app that presents users with several possible replies to emails. This research has also been used to successfully rewrite Google's production translation services.  (see [Google blog post](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) and [New York Times article](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0) )
+Google researchers Vinyals and Le released a research paper, [A neural conversation model](http://arxiv.org/pdf/1506.05869v3.pdf), where they train an agent end to end using data from an internal tech support chat system, and data from Open Subtitles, which has movie and tv dialog for captioning. They use the seq2seq framework which was originally designed to do machine translation.  It takes a single sentence like "What is the purpose of life?" and  "translates" it to a single sentence response like "to serve the greater good." This [research powers the Smart Reply feature](http://googleresearch.blogspot.co.uk/2015/11/computer-respond-to-this-email.html) for the Google Inbox app that presents users with several possible replies to emails. The Seq2seq framework has also been used to successfully rewrite Google's production translation services.  (see [Google blog post](https://blog.google/products/translate/found-translation-more-accurate-fluent-sentences-google-translate/) and [New York Times article](http://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?_r=0) )
 
 Reflective listening sometimes requires responding with the user's original statements. This is topic of the paper [Incorporating Copying Mechanism in Sequence-to-Sequence Learning](http://arxiv.org/pdf/1603.06393v3.pdf) Which gives the following examples:
 
-___
-- Hello Jack, my name is **Chandralekha**.
-- Nice to meet you, **Chandralekha**.
+Statement: Hello Jack, my name is **Chandralekha**.  
+Response: Nice to meet you, **Chandralekha**.  
 
-___
-- This new guy **doesn’t perform exactly as we expected**.
-- What do you mean by "**doesn’t perform exactly as we expected**"?
+Statement: This new guy **doesn’t perform exactly as we expected**.  
+Response: What do you mean by "**doesn’t perform exactly as we expected**"?  
 
 One concern is not repeating counselor statements too often. Diversity in responses is the topic of [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541v3.pdf). 
 
-Another concern is to not ask questions that have been answered previously. This problem may benefit from research in QA systems.  Here is a potential example of using an open ended question inappropriately:  
-
-- I am sad. My cat died.  
-- What is the reason you're sad?
 
 #### Memory
 In reflective listening, you typically track the client's mood and emotion, so the requirements for memory are limited.  However, one shortcoming for seq2seq lstm rnns is that they are typically programmed to only have memory for one dialog exchange (statement/response). They are limited to around 79 words in length. However, a dialog system will likely require a more sophisticated ability to focus attention on very long term memory.  Memory and attention mechanisms are an [active topic of research](https://research.facebook.com/pages/764602597000662/reasoning-attention-memory-ram-nips-workshop-2015/).  There are several competing models like Memory Networks, Neural Turing machines, and Stack RNN.  
