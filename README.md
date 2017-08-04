@@ -18,7 +18,6 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
 [Oxford Deep Learning for NLP class](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)  
 [Phil Blunsom](https://scholar.google.co.uk/citations?user=eJwbbXEAAAAJ&hl=en). (2017) Class by Deep Mind NLP Group.   
 Lecture slides, videos, and practicals: [Github Repository](https://github.com/oxford-cs-deepnlp-2017)  
-**Currently ongoing**  
 
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
@@ -145,6 +144,8 @@ Google has started [rolling out NMT](https://blog.google/products/translate/foun
 Gehring et al. 2017 Facebook AI research 
 [blog post](https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/)  
 "We outperform the accuracy of the deep LSTM setup of Wu et al. (2016) on both WMT'14 English-German and WMT'14 English-French translation at an order of magnitude faster speed, both on GPU and CPU."
+  
+[Facebook is transitioning entirely to neural machine translation](https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/)
   
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
