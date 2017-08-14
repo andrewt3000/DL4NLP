@@ -12,8 +12,8 @@ Intro NLP course with videos. This has **no deep learning**. But it is a good pr
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). (2016)  Class with syllabus, and slides.  
 Videos: [2015 lectures](https://www.youtube.com/channel/UCsGC3XXF1ThHwtDo18d7WVw/videos) / [2016 lectures](https://www.youtube.com/playlist?list=PLcGUo322oqu9n4i0X3cRJgKyVy7OkDdoi)   
 
-[A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)  
-Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.  
+[A Primer on Neural Network Models for Natural Language Processing](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)  
+Yoav Goldberg. Submitted 9/2015, published 11/16. 75 page summary of state of the art.  
 
 [Oxford Deep Learning for NLP class](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)  
 [Phil Blunsom](https://scholar.google.co.uk/citations?user=eJwbbXEAAAAJ&hl=en). (2017) Class by Deep Mind NLP Group.   
