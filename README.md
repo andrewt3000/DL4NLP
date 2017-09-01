@@ -147,6 +147,9 @@ Gehring et al. 2017 Facebook AI research
   
 [Facebook is transitioning entirely to neural machine translation](https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/)
   
+[Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)
+"we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks."  
+  
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
 Xu et al. 2015 Creates captions by feeding image into a CNN which feeds into hidden state of an RNN that generates the caption. At each time step the RNN outputs next word and the next location to pay attention to via a probability over grid locations. Uses 2 types of attention soft and hard. Soft attention uses gradient descent and backprop and is deterministic. Hard attention selects the element with highest probability. Hard attention uses reinforcement learning, rather than backprop and is stochastic.  
