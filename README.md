@@ -143,12 +143,14 @@ Google has started [rolling out NMT](https://blog.google/products/translate/foun
 [Convolutional Sequence to Sequence Learning](https://arxiv.org/abs/1705.03122)  
 Gehring et al. 2017 Facebook AI research 
 [blog post](https://code.facebook.com/posts/1978007565818999/a-novel-approach-to-neural-machine-translation/)  
-"We outperform the accuracy of the deep LSTM setup of Wu et al. (2016) on both WMT'14 English-German and WMT'14 English-French translation at an order of magnitude faster speed, both on GPU and CPU."
+Architecture: Convolutional sequence to sequence. ConvS2s.  
+Results: "We outperform the accuracy of the deep LSTM setup of Wu et al. (2016) on both WMT'14 English-German and WMT'14 English-French translation at an order of magnitude faster speed, both on GPU and CPU."
   
 [Facebook is transitioning entirely to neural machine translation](https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/)
   
-[Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)
-"we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks."  
+[Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)  
+Arcitecture introducedle by Google in [Attention is all you need](https://arxiv.org/abs/1706.03762)  
+Results: "we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks."  
   
 ## Image Captioning
 [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
