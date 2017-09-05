@@ -149,11 +149,11 @@ Results: "We outperform the accuracy of the deep LSTM setup of Wu et al. (2016) 
 [Facebook is transitioning entirely to neural machine translation](https://code.facebook.com/posts/289921871474277/transitioning-entirely-to-neural-machine-translation/)
   
 [Transformer: A Novel Neural Network Architecture for Language Understanding](https://research.googleblog.com/2017/08/transformer-novel-neural-network.html)  
-Arcitecture introducedle by Google in [Attention is all you need](https://arxiv.org/abs/1706.03762)  
+Arcitecture: Transformer, a T2T model introduced by Google in [Attention is all you need](https://arxiv.org/abs/1706.03762)  
 Results: "we show that the Transformer outperforms both recurrent and convolutional models on academic English to German and English to French translation benchmarks."  
 [T2T Source code](https://github.com/tensorflow/tensor2tensor)  
 
-[DeepL Translator](https://www.deepl.com/translator) is [outperforming competitors](https://www.deepl.com/press.html) but doesn't disclose their architecture.
+[DeepL Translator](https://www.deepl.com/translator) claims to [outperform competitors](https://www.deepl.com/press.html) but doesn't disclose their architecture.
 "Specific details of our network architecture will not be published at this time. DeepL Translator is based on a single, non-ensemble model."  
   
 ## Image Captioning
