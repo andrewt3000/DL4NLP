@@ -204,6 +204,8 @@ Implements a retrieval based dialog agent using dual encoder lstm with TensorFlo
 
 [ParlAI](https://github.com/facebookresearch/ParlAI) A framework for training and evaluating AI models on a variety of openly available dialog datasets. Released by FaceBook.  
 
+[Neural Dialog Papers](https://github.com/snakeztc/NeuralDialogPapers)  
+
 ## Memory and Attention Models
 Attention mechanisms allows the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  - [Attention and Memory in Deep Learning and NLP](http://www.opendatascience.com/blog/attention-and-memory-in-deep-learning-and-nlp/)  
 
