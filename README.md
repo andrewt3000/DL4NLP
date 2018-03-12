@@ -56,6 +56,10 @@ ___
 Bojanowski, Grave, Joulin, Mikolov 2016  
 [FastText Code](https://github.com/facebookresearch/fastText)  
 
+[Advances in Pre-Training Distributed Word Representations](https://arxiv.org/abs/1712.09405)  
+T. Mikolov, E. Grave, P. Bojanowski, C. Puhrsch, A. Joulin 2017  
+[FastText library](https://fasttext.cc/) includes [English word vectors](https://fasttext.cc/docs/en/english-vectors.html)  
+
 ## Sentiment Analysis
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  This concept is used for many text classification tasks such as sentiment analysis.      
 
@@ -157,12 +161,6 @@ Results: "we show that the Transformer outperforms both recurrent and convolutio
 [DeepL Translator](https://www.deepl.com/translator) claims to [outperform competitors](https://www.deepl.com/press.html) but doesn't disclose their architecture.
 "Specific details of our network architecture will not be published at this time. DeepL Translator is based on a single, non-ensemble model."  
   
-## Image Captioning
-[Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](http://arxiv.org/pdf/1502.03044v3.pdf)  
-Xu et al. 2015 Creates captions by feeding image into a CNN which feeds into hidden state of an RNN that generates the caption. At each time step the RNN outputs next word and the next location to pay attention to via a probability over grid locations. Uses 2 types of attention soft and hard. Soft attention uses gradient descent and backprop and is deterministic. Hard attention selects the element with highest probability. Hard attention uses reinforcement learning, rather than backprop and is stochastic.  
-
-[Open source implementation in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)  
-
 ## Conversation modeling / Dialog
 [Neural Responding Machine for Short-Text Conversation](http://arxiv.org/pdf/1503.02364v2.pdf)  
 Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  Achieves one round conversations with 75% appropriate responses.  
