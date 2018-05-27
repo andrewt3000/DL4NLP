@@ -202,7 +202,7 @@ Article summary of state of the art, and challenges for chatbots.
 [Deep learning for chatbots. part 2](http://www.wildml.com/2016/07/deep-learning-for-chatbots-2-retrieval-based-model-tensorflow/)  
 Implements a retrieval based dialog agent using dual encoder lstm with TensorFlow, based on the Ubuntu dataset [[paper](http://arxiv.org/pdf/1506.08909v3.pdf)] includes [source code](https://github.com/dennybritz/chatbot-retrieval/)  
 
-[ParlAI](https://github.com/facebookresearch/ParlAI) A framework for training and evaluating AI models on a variety of openly available dialog datasets. Released by FaceBook.  
+[Chatbot and Related Research Paper Notes with Images](https://github.com/ricsinaruto/Seq2seqChatbots/wiki/Chatbot-and-Related-Research-Paper-Notes-with-Images)  
 
 [Neural Dialog Papers](https://github.com/snakeztc/NeuralDialogPapers)  
 
