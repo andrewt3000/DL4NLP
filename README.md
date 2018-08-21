@@ -5,19 +5,17 @@ State of the art resources for NLP sequence modeling tasks such as machine trans
 [My notes on neural networks, rnn, lstm](https://github.com/andrewt3000/MachineLearning/blob/master/neuralNets.md)  
 
 ## Deep Learning for NLP 
-[Stanford Natural Language Processing](https://www.coursera.org/learn/nlp)  
-Intro NLP course with videos. This has **no deep learning**. But it is a good primer for traditional nlp. Covers topics such as [sentence segmentation](https://github.com/diasks2/pragmatic_segmenter), word tokenizing, word normalization, n-grams, named entity recognition, part of speech tagging.  **Currently not available**  
-
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). Class with syllabus, and slides.  
 Videos: [2017 lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
 
-[A Primer on Neural Network Models for Natural Language Processing](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)  
-Yoav Goldberg. Submitted 9/2015, published 11/16. 75 page summary of state of the art.  
-
 [Oxford Deep Learning for NLP class](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)  
 [Phil Blunsom](https://scholar.google.co.uk/citations?user=eJwbbXEAAAAJ&hl=en). (2017) Class by Deep Mind NLP Group.   
 Lecture slides, videos, and practicals: [Github Repository](https://github.com/oxford-cs-deepnlp-2017)  
+[2017 videos](https://www.youtube.com/playlist?list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)  
+
+[A Primer on Neural Network Models for Natural Language Processing](https://www.jair.org/media/4992/live-4992-9623-jair.pdf)  
+Yoav Goldberg. Submitted 9/2015, published 11/16. 75 page summary of state of the art.  
 
 ## Word Vectors
 Resources about word vectors, aka word embeddings, and distributed representations for words.  
