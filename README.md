@@ -156,6 +156,9 @@ Results: "we show that the Transformer outperforms both recurrent and convolutio
 [T2T Source code](https://github.com/tensorflow/tensor2tensor)  
 [T2T blog post](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html)   
 
+[Universal Transformer](https://ai.googleblog.com/2018/08/moving-beyond-translation-with.html)  
+8/15/18 Google increases BLEU score by 1 and uses universal tranformer in other domains besides translation.  
+
 [DeepL Translator](https://www.deepl.com/translator) claims to [outperform competitors](https://www.deepl.com/press.html) but doesn't disclose their architecture.
 "Specific details of our network architecture will not be published at this time. DeepL Translator is based on a single, non-ensemble model."  
   
