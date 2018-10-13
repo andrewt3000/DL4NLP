@@ -58,6 +58,9 @@ Bojanowski, Grave, Joulin, Mikolov 2016
 T. Mikolov, E. Grave, P. Bojanowski, C. Puhrsch, A. Joulin 2017  
 [FastText library](https://fasttext.cc/) includes [English word vectors](https://fasttext.cc/docs/en/english-vectors.html)  
 
+___
+[GPU-optimized TensorFlow implementation for loading official pre-trained embeddings](https://github.com/guillaume-chevalier/GloVe-as-a-TensorFlow-Embedding-Layer), G. Chevalier, 2018
+
 ## Sentiment Analysis
 Thought vectors are numeric representations for sentences, paragraphs, and documents.  This concept is used for many text classification tasks such as sentiment analysis.      
 
