@@ -207,6 +207,12 @@ Implements a retrieval based dialog agent using dual encoder lstm with TensorFlo
 
 [Neural Dialog Papers](https://github.com/snakeztc/NeuralDialogPapers)  
 
+[Adversarial Learning for Neural Dialogue Generation](https://arxiv.org/abs/1701.06547)  
+Li et al 2017  
+They use an adversarial model with a generator (generates responses) and discriminator (classifies as human or machine generated). They start with REINFORCE algorithm. They refine using Reward for Every Generation Step (REGS) which breaks up the response and grades the words individually. They also use "Teacher Forcing" to stablize the GAN.    
+Includes [source code](https://github.com/jiweil/Neural-Dialogue-Generation)  
+[Video explaining the paper](https://www.youtube.com/watch?v=8fA6qYG4jFc)  
+
 ## Memory and Attention Models
 Attention mechanisms allows the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  - [Attention and Memory in Deep Learning and NLP](http://www.opendatascience.com/blog/attention-and-memory-in-deep-learning-and-nlp/)  
 
