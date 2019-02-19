@@ -213,11 +213,10 @@ Implements a retrieval based dialog agent using dual encoder lstm with TensorFlo
 
 
 ## Language Modeling
-Researchers have been training increasingly large language models and using them to "transfer learn" other tasks.  
+Researchers have been training increasingly large language models and using them to "transfer learn" other tasks such as [Google's Bert](https://arxiv.org/abs/1810.04805), [fast.ai's ULMFit](https://arxiv.org/abs/1801.06146), 
 
 [Better Language Models and their implications](https://blog.openai.com/better-language-models/) 2/14/19 Open AI partially releases a large language model, GPT-2.     
 
-https://blog.openai.com/better-language-models/
 
 ## Memory and Attention Models
 Attention mechanisms allows the network to refer back to the input sequence, instead of forcing it to encode all information into one fixed-length vector.  - [Attention and Memory in Deep Learning and NLP](http://www.opendatascience.com/blog/attention-and-memory-in-deep-learning-and-nlp/)  
