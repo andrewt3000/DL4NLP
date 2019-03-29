@@ -8,6 +8,7 @@ State of the art resources for NLP sequence modeling tasks such as machine trans
 [Stanford CS 224D: Deep Learning for NLP class](http://cs224d.stanford.edu/syllabus.html)  
 [Richard Socher](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en). Class with syllabus, and slides.  
 Videos: [2017 lectures](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)  
+CS224N [Winter 2019 lectures](https://www.youtube.com/watch?v=8rXD5-xhemo&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)  
 
 [Oxford Deep Learning for NLP class](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)  
 [Phil Blunsom](https://scholar.google.co.uk/citations?user=eJwbbXEAAAAJ&hl=en). (2017) Class by Deep Mind NLP Group.   
